@@ -1,24 +1,24 @@
-# Keiyoushi Extensions
+# Extensões FelipeGFA
 
-### Please give the repo a :star:
+### Por favor, dê uma estrela ao repositório :star:
 
-| Build | Need Help? |
+| Build | Precisa de Ajuda? (Keiyoushi Discord) |
 |-------|---------|
-| [![CI](https://github.com/keiyoushi/extensions-source/actions/workflows/build_push.yml/badge.svg)](https://github.com/keiyoushi/extensions-source/actions/workflows/build_push.yml) | [![Discord](https://img.shields.io/discord/1193460528052453448.svg?label=discord&labelColor=7289da&color=2c2f33&style=flat)](https://discord.gg/3FbCpdKbdY) |
+| [![CI](https://github.com/FelipeGFA/fonte-extensoes/actions/workflows/build_push.yml/badge.svg)](https://github.com/FelipeGFA/fonte-extensoes/actions/workflows/build_push.yml) | [![Discord](https://img.shields.io/discord/1193460528052453448.svg?label=discord&labelColor=7289da&color=2c2f33&style=flat)](https://discord.gg/3FbCpdKbdY) |
 
-## Usage
-**If you are new to repository/extensions, please read the [Keiyoushi Getting Started guide](https://keiyoushi.github.io/docs/guides/getting-started#adding-the-extension-repo) first.**
+## Uso
+**Se você é novo em repositórios/extensões, por favor leia o [guia de primeiros passos do Keiyoushi](https://keiyoushi.github.io/docs/guides/getting-started#adding-the-extension-repo) primeiro.**
 
-* You can add our repo by visiting the [Keiyoushi Website](https://keiyoushi.github.io/add-repo)
-* Otherwise, copy & paste the following URL: https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json
+* Você pode adicionar nosso repositório visitando o [Site do Keiyoushi](https://keiyoushi.github.io/add-repo)
+* Caso contrário, copie e cole a seguinte URL: https://raw.githubusercontent.com/FelipeGFA/extensoes/repo/index.min.json
 
-### Source Code
+### Código Fonte
 
-https://github.com/keiyoushi/extensions-source
+https://github.com/FelipeGFA/fonte-extensoes
 
-### Report issues
+### Reportar problemas
 
-https://github.com/keiyoushi/extensions-source/issues/new/choose
+https://github.com/FelipeGFA/fonte-extensoes/issues/new/choose
 
-### Others
-If you're not using any of the above fork then manually download and update extensions from [the listing page](https://keiyoushi.github.io/extensions/)
+### Outros
+Se você não está usando nenhum dos forks acima, baixe e atualize extensões manualmente da [página de listagem](https://keiyoushi.github.io/extensions/)
