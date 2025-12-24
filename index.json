@@ -22843,31 +22843,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: NewToki / ManaToki",
-    "pkg": "eu.kanade.tachiyomi.extension.ko.newtoki",
-    "apk": "tachiyomi-ko.newtoki-v1.4.33.apk",
-    "lang": "ko",
-    "code": 33,
-    "version": "1.4.33",
-    "nsfw": 1,
-    "sources": [
-      {
-        "name": "ManaToki",
-        "lang": "ko",
-        "id": "2526381983439079467",
-        "baseUrl": "https://manatoki469.net",
-        "versionId": 1
-      },
-      {
-        "name": "NewToki",
-        "lang": "ko",
-        "id": "1977818283770282459",
-        "baseUrl": "https://newtoki469.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: RawDEX",
     "pkg": "eu.kanade.tachiyomi.extension.ko.rawdex",
     "apk": "tachiyomi-ko.rawdex-v1.4.46.apk",
@@ -22917,38 +22892,6 @@
         "lang": "ko",
         "id": "6596496791271983268",
         "baseUrl": "https://tkor.dog",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Wolf.com",
-    "pkg": "eu.kanade.tachiyomi.extension.ko.wolfdotcom",
-    "apk": "tachiyomi-ko.wolfdotcom-v1.4.3.apk",
-    "lang": "ko",
-    "code": 3,
-    "version": "1.4.3",
-    "nsfw": 1,
-    "sources": [
-      {
-        "name": "늑대닷컴 - 웹툰",
-        "lang": "ko",
-        "id": "5583626852311652499",
-        "baseUrl": "https://wfwf446.com",
-        "versionId": 1
-      },
-      {
-        "name": "늑대닷컴 - 만화책",
-        "lang": "ko",
-        "id": "7074060458114951398",
-        "baseUrl": "https://wfwf446.com",
-        "versionId": 1
-      },
-      {
-        "name": "늑대닷컴 - 포토툰",
-        "lang": "ko",
-        "id": "4225505094399546613",
-        "baseUrl": "https://wfwf446.com",
         "versionId": 1
       }
     ]
@@ -24648,17 +24591,17 @@
   {
     "name": "Tachiyomi: Yomu Comics",
     "pkg": "eu.kanade.tachiyomi.extension.pt.sssscanlator",
-    "apk": "tachiyomi-pt.sssscanlator-v1.4.37.apk",
+    "apk": "tachiyomi-pt.sssscanlator-v1.4.38.apk",
     "lang": "pt-BR",
-    "code": 37,
-    "version": "1.4.37",
+    "code": 38,
+    "version": "1.4.38",
     "nsfw": 0,
     "sources": [
       {
         "name": "Yomu Comics",
         "lang": "pt-BR",
         "id": "1497838059713668619",
-        "baseUrl": "https://yomucomics.com",
+        "baseUrl": "https://yomu.com.br",
         "versionId": 1
       }
     ]
