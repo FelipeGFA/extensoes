@@ -24031,6 +24031,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: Mango Toons",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.mangotoons",
+    "apk": "tachiyomi-pt.mangotoons-v1.4.1.apk",
+    "lang": "pt-BR",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Mango Toons",
+        "lang": "pt-BR",
+        "id": "8989984812354857153",
+        "baseUrl": "https://mangotoons.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Manhastro",
     "pkg": "eu.kanade.tachiyomi.extension.pt.manhastro",
     "apk": "tachiyomi-pt.manhastro-v1.4.55.apk",
@@ -24591,17 +24609,17 @@
   {
     "name": "Tachiyomi: Yomu Comics",
     "pkg": "eu.kanade.tachiyomi.extension.pt.sssscanlator",
-    "apk": "tachiyomi-pt.sssscanlator-v1.4.38.apk",
+    "apk": "tachiyomi-pt.sssscanlator-v1.4.37.apk",
     "lang": "pt-BR",
-    "code": 38,
-    "version": "1.4.38",
+    "code": 37,
+    "version": "1.4.37",
     "nsfw": 0,
     "sources": [
       {
         "name": "Yomu Comics",
         "lang": "pt-BR",
         "id": "1497838059713668619",
-        "baseUrl": "https://yomu.com.br",
+        "baseUrl": "https://yomucomics.com",
         "versionId": 1
       }
     ]
