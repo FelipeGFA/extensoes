@@ -24609,17 +24609,17 @@
   {
     "name": "Tachiyomi: Yomu Comics",
     "pkg": "eu.kanade.tachiyomi.extension.pt.sssscanlator",
-    "apk": "tachiyomi-pt.sssscanlator-v1.4.37.apk",
+    "apk": "tachiyomi-pt.sssscanlator-v1.4.38.apk",
     "lang": "pt-BR",
-    "code": 37,
-    "version": "1.4.37",
+    "code": 38,
+    "version": "1.4.38",
     "nsfw": 0,
     "sources": [
       {
         "name": "Yomu Comics",
         "lang": "pt-BR",
         "id": "1497838059713668619",
-        "baseUrl": "https://yomucomics.com",
+        "baseUrl": "https://yomu.com.br",
         "versionId": 1
       }
     ]
