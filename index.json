@@ -24051,10 +24051,10 @@
   {
     "name": "Tachiyomi: Mediocre Toons",
     "pkg": "eu.kanade.tachiyomi.extension.pt.mediocretoons",
-    "apk": "tachiyomi-pt.mediocretoons-v1.4.10.apk",
+    "apk": "tachiyomi-pt.mediocretoons-v1.4.11.apk",
     "lang": "pt-BR",
-    "code": 10,
-    "version": "1.4.10",
+    "code": 11,
+    "version": "1.4.11",
     "nsfw": 1,
     "sources": [
       {
@@ -25142,24 +25142,6 @@
         "lang": "ru",
         "id": "959425739436325341",
         "baseUrl": "https://mangamammy.ru",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: MangaPoisk",
-    "pkg": "eu.kanade.tachiyomi.extension.ru.mangapoisk",
-    "apk": "tachiyomi-ru.mangapoisk-v1.4.11.apk",
-    "lang": "ru",
-    "code": 11,
-    "version": "1.4.11",
-    "nsfw": 1,
-    "sources": [
-      {
-        "name": "MangaPoisk",
-        "lang": "ru",
-        "id": "4092015241327675443",
-        "baseUrl": "https://mangapoisk.live",
         "versionId": 1
       }
     ]
