@@ -23761,6 +23761,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: Leitura Manga",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.leituramanga",
+    "apk": "tachiyomi-pt.leituramanga-v1.4.1.apk",
+    "lang": "pt-BR",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Leitura Mangá",
+        "lang": "pt-BR",
+        "id": "1445343849143422351",
+        "baseUrl": "https://leituramanga.net",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Ler 999",
     "pkg": "eu.kanade.tachiyomi.extension.pt.ler999",
     "apk": "tachiyomi-pt.ler999-v1.4.11.apk",
