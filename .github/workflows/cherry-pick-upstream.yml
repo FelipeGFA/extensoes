@@ -1,0 +1,364 @@
+name: Cherry-pick Upstream Commits
+
+# Run daily at 2 AM UTC or manually
+on:
+  schedule:
+    - cron: '0 2 * * *'
+  workflow_dispatch:
+    inputs:
+      max_commits:
+        description: 'Maximum number of commits to process (default: 10)'
+        required: false
+        default: '10'
+
+jobs:
+  cherry-pick-upstream:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+      pull-requests: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          ref: repo
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Configure Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Add upstream remote
+        run: |
+          # Add upstream remote if not already present
+          if ! git remote get-url upstream 2>/dev/null; then
+            git remote add upstream https://github.com/keiyoushi/extensions.git
+            echo "✅ Added upstream remote"
+          else
+            echo "ℹ️ Upstream remote already exists"
+          fi
+
+      - name: Fetch upstream changes
+        run: |
+          echo "📥 Fetching upstream changes..."
+          git fetch upstream repo
+          echo "✅ Fetch complete"
+
+      - name: Identify behind commits
+        id: identify-commits
+        run: |
+          echo "🔍 Identifying commits behind upstream..."
+
+          # Get the current branch HEAD
+          CURRENT_HEAD=$(git rev-parse HEAD)
+          echo "Current HEAD: $CURRENT_HEAD"
+
+          # Get upstream HEAD
+          UPSTREAM_HEAD=$(git rev-parse upstream/repo)
+          echo "Upstream HEAD: $UPSTREAM_HEAD"
+
+          # Find commits that are in upstream but not in current branch
+          # This gets commits in the order from oldest to newest
+          BEHIND_COMMITS=$(git log --reverse --pretty=format:"%H" HEAD..upstream/repo)
+
+          if [ -z "$BEHIND_COMMITS" ]; then
+            echo "✅ Already up to date with upstream!"
+            echo "has_commits=false" >> $GITHUB_OUTPUT
+            exit 0
+          fi
+
+          # Count commits
+          COMMIT_COUNT=$(echo "$BEHIND_COMMITS" | wc -l)
+          echo "📊 Found $COMMIT_COUNT commits behind upstream"
+
+          # Limit number of commits to process
+          MAX_COMMITS=${{ github.event.inputs.max_commits || '10' }}
+          echo "ℹ️ Will process up to $MAX_COMMITS commits"
+
+          # Take only the first N commits
+          COMMITS_TO_PROCESS=$(echo "$BEHIND_COMMITS" | head -n "$MAX_COMMITS")
+
+          # Save commits to file for processing
+          echo "$COMMITS_TO_PROCESS" > /tmp/commits_to_process.txt
+
+          echo "has_commits=true" >> $GITHUB_OUTPUT
+          echo "commit_count=$(echo "$COMMITS_TO_PROCESS" | wc -l)" >> $GITHUB_OUTPUT
+
+      - name: Process commits
+        if: steps.identify-commits.outputs.has_commits == 'true'
+        id: process-commits
+        run: |
+          echo "🔄 Processing ${{ steps.identify-commits.outputs.commit_count }} commits..."
+
+          # Initialize counters
+          SUCCESS_COUNT=0
+          REPLACE_COUNT=0
+          CONFLICT_COUNT=0
+          ERROR_COUNT=0
+
+          # Arrays to store commit info
+          declare -a REPLACED_COMMITS
+          declare -a CONFLICTED_COMMITS
+          declare -a ERROR_COMMITS
+
+          # Read commits from file
+          while IFS= read -r COMMIT_SHA; do
+            if [ -z "$COMMIT_SHA" ]; then
+              continue
+            fi
+
+            echo ""
+            echo "=================================="
+            echo "📝 Processing commit: $COMMIT_SHA"
+            echo "=================================="
+
+            # Get commit message for logging
+            COMMIT_MSG=$(git log --format=%s -n 1 "$COMMIT_SHA" 2>/dev/null || echo "Unknown")
+            echo "Commit message: $COMMIT_MSG"
+
+            # Run analysis script
+            echo "🔬 Running analysis..."
+            ANALYSIS_OUTPUT=$(python3 scripts/analyze_commit.py "$COMMIT_SHA" 2>&1)
+            ANALYSIS_EXIT_CODE=$?
+
+            echo "$ANALYSIS_OUTPUT"
+
+            # Extract decision from output
+            DECISION=$(echo "$ANALYSIS_OUTPUT" | grep "=== FINAL DECISION:" | awk '{print $4}')
+
+            echo "Decision: $DECISION (exit code: $ANALYSIS_EXIT_CODE)"
+
+            # Handle based on decision
+            case $ANALYSIS_EXIT_CODE in
+              0)
+                # Safe to cherry-pick
+                echo "✅ Safe to cherry-pick"
+                if git cherry-pick "$COMMIT_SHA"; then
+                  echo "✅ Cherry-pick successful"
+                  SUCCESS_COUNT=$((SUCCESS_COUNT + 1))
+                else
+                  echo "❌ Cherry-pick failed despite safe analysis"
+                  git cherry-pick --abort 2>/dev/null || true
+                  CONFLICT_COUNT=$((CONFLICT_COUNT + 1))
+                  CONFLICTED_COMMITS+=("$COMMIT_SHA")
+                fi
+                ;;
+
+              1)
+                # APK replacement needed
+                echo "🔄 APK replacement required"
+
+                # Get list of APK files in the commit
+                APK_FILES=$(git diff-tree --no-commit-id --name-only -r "$COMMIT_SHA" | grep "^apk/.*\.apk$" || true)
+
+                if [ -z "$APK_FILES" ]; then
+                  echo "⚠️ No APK files found in commit"
+                  CONFLICT_COUNT=$((CONFLICT_COUNT + 1))
+                  CONFLICTED_COMMITS+=("$COMMIT_SHA")
+                else
+                  echo "📦 Replacing APK files:"
+                  echo "$APK_FILES"
+
+                  # For each APK, extract base name and remove current version
+                  while IFS= read -r APK_FILE; do
+                    if [ -z "$APK_FILE" ]; then
+                      continue
+                    fi
+
+                    APK_NAME=$(basename "$APK_FILE")
+                    BASE_NAME=$(echo "$APK_NAME" | sed -E 's/-v[0-9]+\.[0-9]+\.[0-9]+\.apk$//')
+
+                    # Remove any existing versions of this APK
+                    echo "🗑️ Removing old versions of $BASE_NAME"
+                    rm -f apk/${BASE_NAME}-v*.apk 2>/dev/null || true
+
+                    # Checkout the new APK from upstream commit
+                    echo "📥 Getting new version from upstream"
+                    if git checkout "$COMMIT_SHA" -- "$APK_FILE"; then
+                      git add "$APK_FILE"
+                      echo "✅ Replaced $APK_FILE"
+                    else
+                      echo "❌ Failed to checkout $APK_FILE"
+                      CONFLICT_COUNT=$((CONFLICT_COUNT + 1))
+                      CONFLICTED_COMMITS+=("$COMMIT_SHA")
+                      continue 2
+                    fi
+                  done <<< "$APK_FILES"
+
+                  # Also get index.json updates if they exist
+                  if git diff-tree --no-commit-id --name-only -r "$COMMIT_SHA" | grep -q "index\..*\.json"; then
+                    echo "📋 Updating index files"
+                    git checkout "$COMMIT_SHA" -- index.json index.min.json 2>/dev/null || true
+                    git add index.json index.min.json 2>/dev/null || true
+                  fi
+
+                  # Create commit
+                  if git diff --cached --quiet; then
+                    echo "⚠️ No changes to commit"
+                  else
+                    ORIGINAL_MSG=$(git log --format=%B -n 1 "$COMMIT_SHA")
+                    git commit -m "chore: APK replacement from upstream" \
+                      -m "" \
+                      -m "Original commit: $COMMIT_SHA" \
+                      -m "$ORIGINAL_MSG" \
+                      -m "" \
+                      -m "[automated cherry-pick with APK replacement]"
+                    echo "✅ APK replacement successful"
+                    REPLACE_COUNT=$((REPLACE_COUNT + 1))
+                    REPLACED_COMMITS+=("$COMMIT_SHA")
+                  fi
+                fi
+                ;;
+
+              2)
+                # Conflict detected
+                echo "⚠️ Conflict detected - manual intervention required"
+                CONFLICT_COUNT=$((CONFLICT_COUNT + 1))
+                CONFLICTED_COMMITS+=("$COMMIT_SHA")
+                ;;
+
+              *)
+                # Error occurred
+                echo "❌ Error during analysis"
+                ERROR_COUNT=$((ERROR_COUNT + 1))
+                ERROR_COMMITS+=("$COMMIT_SHA")
+                ;;
+            esac
+
+          done < /tmp/commits_to_process.txt
+
+          echo ""
+          echo "=================================="
+          echo "📊 Summary"
+          echo "=================================="
+          echo "✅ Successfully cherry-picked: $SUCCESS_COUNT"
+          echo "🔄 APK replacements: $REPLACE_COUNT"
+          echo "⚠️ Conflicts (skipped): $CONFLICT_COUNT"
+          echo "❌ Errors: $ERROR_COUNT"
+
+          # Save results to outputs
+          echo "success_count=$SUCCESS_COUNT" >> $GITHUB_OUTPUT
+          echo "replace_count=$REPLACE_COUNT" >> $GITHUB_OUTPUT
+          echo "conflict_count=$CONFLICT_COUNT" >> $GITHUB_OUTPUT
+          echo "error_count=$ERROR_COUNT" >> $GITHUB_OUTPUT
+
+          # Create summary file
+          {
+            echo "## Cherry-pick Summary"
+            echo ""
+            echo "- ✅ Successfully cherry-picked: $SUCCESS_COUNT"
+            echo "- 🔄 APK replacements: $REPLACE_COUNT"
+            echo "- ⚠️ Conflicts (skipped): $CONFLICT_COUNT"
+            echo "- ❌ Errors: $ERROR_COUNT"
+
+            if [ ${#REPLACED_COMMITS[@]} -gt 0 ]; then
+              echo ""
+              echo "### APK Replacements"
+              for commit in "${REPLACED_COMMITS[@]}"; do
+                msg=$(git log --format=%s -n 1 "$commit" 2>/dev/null || echo "Unknown")
+                echo "- $commit: $msg"
+              done
+            fi
+
+            if [ ${#CONFLICTED_COMMITS[@]} -gt 0 ]; then
+              echo ""
+              echo "### Conflicted Commits (Manual Review Needed)"
+              for commit in "${CONFLICTED_COMMITS[@]}"; do
+                msg=$(git log --format=%s -n 1 "$commit" 2>/dev/null || echo "Unknown")
+                echo "- $commit: $msg"
+              done
+            fi
+
+            if [ ${#ERROR_COMMITS[@]} -gt 0 ]; then
+              echo ""
+              echo "### Error Commits"
+              for commit in "${ERROR_COMMITS[@]}"; do
+                msg=$(git log --format=%s -n 1 "$commit" 2>/dev/null || echo "Unknown")
+                echo "- $commit: $msg"
+              done
+            fi
+          } > /tmp/summary.md
+
+          cat /tmp/summary.md
+
+      - name: Push changes
+        if: steps.identify-commits.outputs.has_commits == 'true'
+        run: |
+          # Check if there are any new commits
+          if [ $(git rev-list HEAD ^origin/repo --count) -gt 0 ]; then
+            echo "📤 Pushing changes to origin..."
+            git push origin repo
+            echo "✅ Push successful"
+          else
+            echo "ℹ️ No changes to push"
+          fi
+
+      - name: Create issue for conflicts
+        if: |
+          steps.identify-commits.outputs.has_commits == 'true' &&
+          (steps.process-commits.outputs.conflict_count > 0 || steps.process-commits.outputs.error_count > 0)
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const summary = fs.readFileSync('/tmp/summary.md', 'utf8');
+
+            const workflowUrl = `${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}`;
+
+            const body = `## Upstream Cherry-pick Report
+
+${summary}
+
+This is an automated report from the cherry-pick upstream workflow.
+Please review the conflicted commits and manually cherry-pick them if needed.
+
+**Workflow Run:** ${workflowUrl}
+`;
+
+            // Check if there's already an open issue
+            const issues = await github.rest.issues.listForRepo({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              state: 'open',
+              labels: ['cherry-pick-conflicts'],
+              per_page: 1
+            });
+
+            if (issues.data.length > 0) {
+              // Update existing issue
+              await github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: issues.data[0].number,
+                body: body
+              });
+              console.log('Updated existing issue');
+            } else {
+              // Create new issue
+              await github.rest.issues.create({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                title: 'Cherry-pick Conflicts Detected',
+                body: body,
+                labels: ['cherry-pick-conflicts', 'automated']
+              });
+              console.log('Created new issue');
+            }
+
+      - name: Add job summary
+        if: always() && steps.identify-commits.outputs.has_commits == 'true'
+        run: |
+          if [ -f /tmp/summary.md ]; then
+            cat /tmp/summary.md >> $GITHUB_STEP_SUMMARY
+          else
+            echo "No commits were processed" >> $GITHUB_STEP_SUMMARY
+          fi
