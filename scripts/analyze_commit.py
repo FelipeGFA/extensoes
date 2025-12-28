@@ -106,10 +106,16 @@ class CommitAnalyzer:
             return None
         
         pattern = f"{base_name}-v*.apk"
+        versions = []
         for apk_file in apk_dir.glob(pattern):
             parsed = self.parse_apk_version(apk_file.name)
             if parsed:
-                return parsed[1]
+                versions.append(parsed[1])
+        
+        # Return the highest version if multiple exist
+        if versions:
+            versions.sort(key=lambda v: [int(x) for x in v.split('.')])
+            return versions[-1]
         return None
 
     def analyze_apk_changes(self, changed_files: List[str]) -> str:
@@ -187,14 +193,14 @@ class CommitAnalyzer:
                 
                 # Build version maps
                 upstream_versions = {
-                    ext.get('pkg'): ext.get('version') 
-                    for ext in upstream_data 
-                    if isinstance(ext, dict)
+                    ext.get('pkg'): ext.get('version')
+                    for ext in upstream_data
+                    if isinstance(ext, dict) and ext.get('pkg') is not None
                 }
                 current_versions = {
-                    ext.get('pkg'): ext.get('version') 
-                    for ext in current_data 
-                    if isinstance(ext, dict)
+                    ext.get('pkg'): ext.get('version')
+                    for ext in current_data
+                    if isinstance(ext, dict) and ext.get('pkg') is not None
                 }
                 
                 # Check for version conflicts

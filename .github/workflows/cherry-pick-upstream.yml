@@ -17,7 +17,7 @@ jobs:
 
     permissions:
       contents: write
-      pull-requests: write
+      issues: write
 
     steps:
       - name: Checkout repository
@@ -175,6 +175,9 @@ jobs:
                     fi
 
                     APK_NAME=$(basename "$APK_FILE")
+                    # Extract base name by removing version suffix
+                    # Pattern: name-v1.2.3.apk -> name
+                    # Note: This mirrors the logic in analyze_commit.py
                     BASE_NAME=$(echo "$APK_NAME" | sed -E 's/-v[0-9]+\.[0-9]+\.[0-9]+\.apk$//')
 
                     # Remove any existing versions of this APK
