@@ -6844,13 +6844,13 @@
         "name": "XCOMIC",
         "packageName": "eu.kanade.tachiyomi.extension.all.xcomic",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/0869e74-0/tachiyomi-all.xcomic-v1.6.2.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/08906d7/tachiyomi-all.xcomic-v1.6.3.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/all/xcomic/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/0869e74-0/tachiyomi-all.xcomic-v1.6.2.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/08906d7/tachiyomi-all.xcomic-v1.6.3.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "2",
-        "versionName": "1.6.2",
+        "versionCode": "3",
+        "versionName": "1.6.3",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -10198,27 +10198,6 @@
             "name": "Cocomic",
             "language": "en",
             "homeUrl": "https://cocomic.co"
-          }
-        ]
-      },
-      {
-        "name": "Coffee Manga",
-        "packageName": "eu.kanade.tachiyomi.extension.en.coffeemanga",
-        "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/0869e74-0/tachiyomi-en.coffeemanga-v1.4.57.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/en/coffeemanga/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/0869e74-0/tachiyomi-en.coffeemanga-v1.4.57.jar"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "57",
-        "versionName": "1.4.57",
-        "contentWarning": "CONTENT_WARNING_MIXED",
-        "sources": [
-          {
-            "id": "7570643086791062929",
-            "name": "Coffee Manga",
-            "language": "en",
-            "homeUrl": "https://coffeemanga.ink"
           }
         ]
       },
@@ -17555,13 +17534,13 @@
         "name": "VyvyManga",
         "packageName": "eu.kanade.tachiyomi.extension.en.vyvymanga",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/0869e74-1/tachiyomi-en.vyvymanga-v1.6.42.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/08906d7/tachiyomi-en.vyvymanga-v1.6.43.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/en/vyvymanga/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/0869e74-1/tachiyomi-en.vyvymanga-v1.6.42.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/08906d7/tachiyomi-en.vyvymanga-v1.6.43.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "42",
-        "versionName": "1.6.42",
+        "versionCode": "43",
+        "versionName": "1.6.43",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -27404,13 +27383,13 @@
         "name": "MangaLivre.org",
         "packageName": "eu.kanade.tachiyomi.extension.pt.mangalivreorg",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/0869e74-2/tachiyomi-pt.mangalivreorg-v1.6.2.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/08906d7/tachiyomi-pt.mangalivreorg-v1.6.3.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/pt/mangalivreorg/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/0869e74-2/tachiyomi-pt.mangalivreorg-v1.6.2.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/08906d7/tachiyomi-pt.mangalivreorg-v1.6.3.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "2",
-        "versionName": "1.6.2",
+        "versionCode": "3",
+        "versionName": "1.6.3",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
