@@ -4510,13 +4510,13 @@
         "name": "MangaFire",
         "packageName": "eu.kanade.tachiyomi.extension.all.mangafire",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/cf47f54-0/tachiyomi-all.mangafire-v1.6.31.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/f308513-0/tachiyomi-all.mangafire-v1.6.32.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/all/mangafire/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/cf47f54-0/tachiyomi-all.mangafire-v1.6.31.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/f308513-0/tachiyomi-all.mangafire-v1.6.32.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "31",
-        "versionName": "1.6.31",
+        "versionCode": "32",
+        "versionName": "1.6.32",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -10490,13 +10490,13 @@
         "name": "Comix",
         "packageName": "eu.kanade.tachiyomi.extension.en.comix",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/45e5f2c-0/tachiyomi-en.comix-v1.6.35.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/f308513-0/tachiyomi-en.comix-v1.6.36.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/en/comix/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/45e5f2c-0/tachiyomi-en.comix-v1.6.35.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/f308513-0/tachiyomi-en.comix-v1.6.36.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "35",
-        "versionName": "1.6.35",
+        "versionCode": "36",
+        "versionName": "1.6.36",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -12642,13 +12642,13 @@
         "name": "Leslie&Victims",
         "packageName": "eu.kanade.tachiyomi.extension.en.leslievictims",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/05bac00-0/tachiyomi-en.leslievictims-v1.4.1.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/f308513-0/tachiyomi-en.leslievictims-v1.4.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/en/leslievictims/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/05bac00-0/tachiyomi-en.leslievictims-v1.4.1.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/f308513-0/tachiyomi-en.leslievictims-v1.4.2.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "1",
-        "versionName": "1.4.1",
+        "versionCode": "2",
+        "versionName": "1.4.2",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -14944,13 +14944,13 @@
         "name": "Mgread.io",
         "packageName": "eu.kanade.tachiyomi.extension.en.mgreadio",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/05bac00-0/tachiyomi-en.mgreadio-v1.4.1.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/f308513-0/tachiyomi-en.mgreadio-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/en/mgreadio/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/05bac00-0/tachiyomi-en.mgreadio-v1.4.1.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/f308513-0/tachiyomi-en.mgreadio-v1.6.2.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "1",
-        "versionName": "1.4.1",
+        "extensionLib": "1.6",
+        "versionCode": "2",
+        "versionName": "1.6.2",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -16292,20 +16292,20 @@
         "name": "Read One Piece Manga Online",
         "packageName": "eu.kanade.tachiyomi.extension.en.readonepiecemangaonline",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/05bac00-1/tachiyomi-en.readonepiecemangaonline-v1.4.8.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/f308513-1/tachiyomi-en.readonepiecemangaonline-v1.4.9.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/lib-multisrc/mangacatalog/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/05bac00-1/tachiyomi-en.readonepiecemangaonline-v1.4.8.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/f308513-1/tachiyomi-en.readonepiecemangaonline-v1.4.9.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "8",
-        "versionName": "1.4.8",
+        "versionCode": "9",
+        "versionName": "1.4.9",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "1061544757733451419",
             "name": "Read One Piece Manga Online",
             "language": "en",
-            "homeUrl": "https://ww12.readonepiece.com"
+            "homeUrl": "https://ww13.readonepiece.com"
           }
         ]
       },
@@ -16334,20 +16334,20 @@
         "name": "Read Solo Leveling Manga Manhwa Online",
         "packageName": "eu.kanade.tachiyomi.extension.en.readsololevelingmangamanhwaonline",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/05bac00-1/tachiyomi-en.readsololevelingmangamanhwaonline-v1.4.10.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/f308513-1/tachiyomi-en.readsololevelingmangamanhwaonline-v1.4.11.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/en/readsololevelingmangamanhwaonline/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/05bac00-1/tachiyomi-en.readsololevelingmangamanhwaonline-v1.4.10.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/f308513-1/tachiyomi-en.readsololevelingmangamanhwaonline-v1.4.11.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "10",
-        "versionName": "1.4.10",
+        "versionCode": "11",
+        "versionName": "1.4.11",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "1374366734159205648",
             "name": "Read Solo Leveling Manga Manhwa Online",
             "language": "en",
-            "homeUrl": "https://ww3.readsololeveling.org"
+            "homeUrl": "https://ww4.readsololeveling.org"
           }
         ]
       },
@@ -20740,13 +20740,13 @@
         "name": "Hentai Origines",
         "packageName": "eu.kanade.tachiyomi.extension.fr.hentaiorigines",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/293f67f/tachiyomi-fr.hentaiorigines-v1.6.55.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/f308513-1/tachiyomi-fr.hentaiorigines-v1.6.57.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/fr/hentaiorigines/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/293f67f/tachiyomi-fr.hentaiorigines-v1.6.55.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/f308513-1/tachiyomi-fr.hentaiorigines-v1.6.57.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "55",
-        "versionName": "1.6.55",
+        "versionCode": "57",
+        "versionName": "1.6.57",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -21118,13 +21118,13 @@
         "name": "Mangas-Origines.fr",
         "packageName": "eu.kanade.tachiyomi.extension.fr.mangasoriginesfr",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/293f67f/tachiyomi-fr.mangasoriginesfr-v1.6.58.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/f308513-1/tachiyomi-fr.mangasoriginesfr-v1.6.60.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/fr/mangasoriginesfr/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/293f67f/tachiyomi-fr.mangasoriginesfr-v1.6.58.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/f308513-1/tachiyomi-fr.mangasoriginesfr-v1.6.60.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "58",
-        "versionName": "1.6.58",
+        "versionCode": "60",
+        "versionName": "1.6.60",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -21181,13 +21181,13 @@
         "name": "Ortega Scans",
         "packageName": "eu.kanade.tachiyomi.extension.fr.ortegascans",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/05bac00-1/tachiyomi-fr.ortegascans-v1.4.1.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/f308513-1/tachiyomi-fr.ortegascans-v1.4.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/fr/ortegascans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/05bac00-1/tachiyomi-fr.ortegascans-v1.4.1.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/f308513-1/tachiyomi-fr.ortegascans-v1.4.2.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "1",
-        "versionName": "1.4.1",
+        "versionCode": "2",
+        "versionName": "1.4.2",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -22378,13 +22378,13 @@
         "name": "Komiku.com",
         "packageName": "eu.kanade.tachiyomi.extension.id.komikucom",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/05bac00-1/tachiyomi-id.komikucom-v1.4.34.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/f308513-1/tachiyomi-id.komikucom-v1.6.35.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/id/komikucom/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/05bac00-1/tachiyomi-id.komikucom-v1.4.34.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/f308513-1/tachiyomi-id.komikucom-v1.6.35.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "34",
-        "versionName": "1.4.34",
+        "extensionLib": "1.6",
+        "versionCode": "35",
+        "versionName": "1.6.35",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -24694,20 +24694,20 @@
         "name": "Jmanga",
         "packageName": "eu.kanade.tachiyomi.extension.ja.jmanga",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e942df5/tachiyomi-ja.jmanga-v1.4.7.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/f308513-1/tachiyomi-ja.jmanga-v1.4.8.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/ja/jmanga/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e942df5/tachiyomi-ja.jmanga-v1.4.7.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/f308513-1/tachiyomi-ja.jmanga-v1.4.8.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "7",
-        "versionName": "1.4.7",
+        "versionCode": "8",
+        "versionName": "1.4.8",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
             "id": "6141590427749684419",
             "name": "Jmanga",
             "language": "ja",
-            "homeUrl": "https://jmanga.land"
+            "homeUrl": "https://jmanga.help"
           }
         ]
       },
@@ -25576,20 +25576,20 @@
         "name": "Raw18",
         "packageName": "eu.kanade.tachiyomi.extension.ja.raw18",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/cf47f54-2/tachiyomi-ja.raw18-v1.6.16.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/f308513-2/tachiyomi-ja.raw18-v1.6.17.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/ja/raw18/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/cf47f54-2/tachiyomi-ja.raw18-v1.6.16.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/f308513-2/tachiyomi-ja.raw18-v1.6.17.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "16",
-        "versionName": "1.6.16",
+        "versionCode": "17",
+        "versionName": "1.6.17",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
             "id": "2238636513447052332",
             "name": "Raw18",
             "language": "ja",
-            "homeUrl": "https://raw18.casa"
+            "homeUrl": "https://raw18.quest"
           }
         ]
       },
@@ -33002,6 +33002,27 @@
         ]
       },
       {
+        "name": "TeleTruyen",
+        "packageName": "eu.kanade.tachiyomi.extension.vi.teletruyen",
+        "resources": {
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/f308513-2/tachiyomi-vi.teletruyen-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/vi/teletruyen/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/f308513-2/tachiyomi-vi.teletruyen-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "1",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "7833855011739264901",
+            "name": "TeleTruyen",
+            "language": "vi",
+            "homeUrl": "https://teletruyen.com"
+          }
+        ]
+      },
+      {
         "name": "ThienThaiTruyen",
         "packageName": "eu.kanade.tachiyomi.extension.vi.thienthaitruyen",
         "resources": {
@@ -33278,13 +33299,13 @@
         "name": "TruyenTuoiTho",
         "packageName": "eu.kanade.tachiyomi.extension.vi.truyentuoitho",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/05bac00-2/tachiyomi-vi.truyentuoitho-v1.4.56.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/f308513-2/tachiyomi-vi.truyentuoitho-v1.6.58.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/vi/truyentuoitho/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/05bac00-2/tachiyomi-vi.truyentuoitho-v1.4.56.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/f308513-2/tachiyomi-vi.truyentuoitho-v1.6.58.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "56",
-        "versionName": "1.4.56",
+        "extensionLib": "1.6",
+        "versionCode": "58",
+        "versionName": "1.6.58",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
