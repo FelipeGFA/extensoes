@@ -3385,206 +3385,206 @@
         "name": "Lunar Manga",
         "packageName": "eu.kanade.tachiyomi.extension.all.lunaranime",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-0/tachiyomi-all.lunaranime-v1.4.12.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-0/tachiyomi-all.lunaranime-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/all/lunaranime/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-0/tachiyomi-all.lunaranime-v1.4.12.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-0/tachiyomi-all.lunaranime-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104012",
-        "versionName": "1.4.12",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
             "id": "5813468393870703615",
             "name": "Lunar Manga",
             "language": "all",
-            "homeUrl": "https://lunaranime.ru"
+            "homeUrl": "https://lunarx.to"
           },
           {
             "id": "7328677245254276970",
             "name": "Lunar Manga",
             "language": "en",
-            "homeUrl": "https://lunaranime.ru"
+            "homeUrl": "https://lunarx.to"
           },
           {
             "id": "3699764450470657348",
             "name": "Lunar Manga",
             "language": "ar",
-            "homeUrl": "https://lunaranime.ru"
+            "homeUrl": "https://lunarx.to"
           },
           {
             "id": "2698159736988588223",
             "name": "Lunar Manga",
             "language": "bg",
-            "homeUrl": "https://lunaranime.ru"
+            "homeUrl": "https://lunarx.to"
           },
           {
             "id": "3551931974861576783",
             "name": "Lunar Manga",
             "language": "bn",
-            "homeUrl": "https://lunaranime.ru"
+            "homeUrl": "https://lunarx.to"
           },
           {
             "id": "547003087261446586",
             "name": "Lunar Manga",
             "language": "da",
-            "homeUrl": "https://lunaranime.ru"
+            "homeUrl": "https://lunarx.to"
           },
           {
             "id": "4964257310156473044",
             "name": "Lunar Manga",
             "language": "de",
-            "homeUrl": "https://lunaranime.ru"
+            "homeUrl": "https://lunarx.to"
           },
           {
             "id": "215773824303536035",
             "name": "Lunar Manga",
             "language": "es",
-            "homeUrl": "https://lunaranime.ru"
+            "homeUrl": "https://lunarx.to"
           },
           {
             "id": "4595247773355584967",
             "name": "Lunar Manga",
             "language": "es-419",
-            "homeUrl": "https://lunaranime.ru"
+            "homeUrl": "https://lunarx.to"
           },
           {
             "id": "7749937618675947100",
             "name": "Lunar Manga",
             "language": "fa",
-            "homeUrl": "https://lunaranime.ru"
+            "homeUrl": "https://lunarx.to"
           },
           {
             "id": "793390858613993949",
             "name": "Lunar Manga",
             "language": "fi",
-            "homeUrl": "https://lunaranime.ru"
+            "homeUrl": "https://lunarx.to"
           },
           {
             "id": "8304537992959679621",
             "name": "Lunar Manga",
             "language": "fr",
-            "homeUrl": "https://lunaranime.ru"
+            "homeUrl": "https://lunarx.to"
           },
           {
             "id": "4939477701699344583",
             "name": "Lunar Manga",
             "language": "he",
-            "homeUrl": "https://lunaranime.ru"
+            "homeUrl": "https://lunarx.to"
           },
           {
             "id": "4529330646808421343",
             "name": "Lunar Manga",
             "language": "hi",
-            "homeUrl": "https://lunaranime.ru"
+            "homeUrl": "https://lunarx.to"
           },
           {
             "id": "8130073422666383933",
             "name": "Lunar Manga",
             "language": "id",
-            "homeUrl": "https://lunaranime.ru"
+            "homeUrl": "https://lunarx.to"
           },
           {
             "id": "8276119821263625468",
             "name": "Lunar Manga",
             "language": "it",
-            "homeUrl": "https://lunaranime.ru"
+            "homeUrl": "https://lunarx.to"
           },
           {
             "id": "2848743514286834588",
             "name": "Lunar Manga",
             "language": "ja",
-            "homeUrl": "https://lunaranime.ru"
+            "homeUrl": "https://lunarx.to"
           },
           {
             "id": "5973585434561103442",
             "name": "Lunar Manga",
             "language": "ko",
-            "homeUrl": "https://lunaranime.ru"
+            "homeUrl": "https://lunarx.to"
           },
           {
             "id": "1272917377169479980",
             "name": "Lunar Manga",
             "language": "ms",
-            "homeUrl": "https://lunaranime.ru"
+            "homeUrl": "https://lunarx.to"
           },
           {
             "id": "568631194803448549",
             "name": "Lunar Manga",
             "language": "nl",
-            "homeUrl": "https://lunaranime.ru"
+            "homeUrl": "https://lunarx.to"
           },
           {
             "id": "1567267056564602747",
             "name": "Lunar Manga",
             "language": "no",
-            "homeUrl": "https://lunaranime.ru"
+            "homeUrl": "https://lunarx.to"
           },
           {
             "id": "89188894348015097",
             "name": "Lunar Manga",
             "language": "pl",
-            "homeUrl": "https://lunaranime.ru"
+            "homeUrl": "https://lunarx.to"
           },
           {
             "id": "690969786104967218",
             "name": "Lunar Manga",
             "language": "pt",
-            "homeUrl": "https://lunaranime.ru"
+            "homeUrl": "https://lunarx.to"
           },
           {
             "id": "1702733805309857480",
             "name": "Lunar Manga",
             "language": "pt-BR",
-            "homeUrl": "https://lunaranime.ru"
+            "homeUrl": "https://lunarx.to"
           },
           {
             "id": "4798553287209680620",
             "name": "Lunar Manga",
             "language": "ru",
-            "homeUrl": "https://lunaranime.ru"
+            "homeUrl": "https://lunarx.to"
           },
           {
             "id": "4407345724470685258",
             "name": "Lunar Manga",
             "language": "sv",
-            "homeUrl": "https://lunaranime.ru"
+            "homeUrl": "https://lunarx.to"
           },
           {
             "id": "3149622876127128169",
             "name": "Lunar Manga",
             "language": "th",
-            "homeUrl": "https://lunaranime.ru"
+            "homeUrl": "https://lunarx.to"
           },
           {
             "id": "6989036438623575060",
             "name": "Lunar Manga",
             "language": "tl",
-            "homeUrl": "https://lunaranime.ru"
+            "homeUrl": "https://lunarx.to"
           },
           {
             "id": "3881169888283649510",
             "name": "Lunar Manga",
             "language": "tr",
-            "homeUrl": "https://lunaranime.ru"
+            "homeUrl": "https://lunarx.to"
           },
           {
             "id": "3227262950343562837",
             "name": "Lunar Manga",
             "language": "ur",
-            "homeUrl": "https://lunaranime.ru"
+            "homeUrl": "https://lunarx.to"
           },
           {
             "id": "4976223882601884801",
             "name": "Lunar Manga",
             "language": "vi",
-            "homeUrl": "https://lunaranime.ru"
+            "homeUrl": "https://lunarx.to"
           },
           {
             "id": "3021093696465448973",
             "name": "Lunar Manga",
             "language": "zh",
-            "homeUrl": "https://lunaranime.ru"
+            "homeUrl": "https://lunarx.to"
           }
         ]
       },
@@ -4621,13 +4621,13 @@
         "name": "MANGA Plus by SHUEISHA",
         "packageName": "eu.kanade.tachiyomi.extension.all.mangaplus",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-0/tachiyomi-all.mangaplus-v1.6.65.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-0/tachiyomi-all.mangaplus-v1.6.66.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/all/mangaplus/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-0/tachiyomi-all.mangaplus-v1.6.65.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-0/tachiyomi-all.mangaplus-v1.6.66.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106065",
-        "versionName": "1.6.65",
+        "versionCode": "106066",
+        "versionName": "1.6.66",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -4710,6 +4710,27 @@
             "name": "MANGA Plus Creators by SHUEISHA",
             "language": "es",
             "homeUrl": "https://mangaplus-creators.jp"
+          }
+        ]
+      },
+      {
+        "name": "MangaTaro",
+        "packageName": "eu.kanade.tachiyomi.extension.all.mangataro",
+        "resources": {
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-0/tachiyomi-all.mangataro-v1.4.11.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/en/mangataro/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-0/tachiyomi-all.mangataro-v1.4.11.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "104011",
+        "versionName": "1.4.11",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "8358097306709528603",
+            "name": "MangaTaro",
+            "language": "en",
+            "homeUrl": "https://mangataro.org"
           }
         ]
       },
@@ -5062,13 +5083,13 @@
         "name": "Miau Scan",
         "packageName": "eu.kanade.tachiyomi.extension.all.miauscan",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-0/tachiyomi-all.miauscan-v1.4.39.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-0/tachiyomi-all.miauscan-v1.6.7.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/all/miauscan/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-0/tachiyomi-all.miauscan-v1.4.39.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-0/tachiyomi-all.miauscan-v1.6.7.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104039",
-        "versionName": "1.4.39",
+        "extensionLib": "1.6",
+        "versionCode": "106007",
+        "versionName": "1.6.7",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -6148,9 +6169,9 @@
         "name": "Pepper&Carrot",
         "packageName": "eu.kanade.tachiyomi.extension.all.peppercarrot",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-0/tachiyomi-all.peppercarrot-v1.4.6.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-0/tachiyomi-all.peppercarrot-v1.4.6.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/all/peppercarrot/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-0/tachiyomi-all.peppercarrot-v1.4.6.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-0/tachiyomi-all.peppercarrot-v1.4.6.jar"
         },
         "extensionLib": "1.4",
         "versionCode": "104006",
@@ -8641,13 +8662,13 @@
         "name": "Area Manga",
         "packageName": "eu.kanade.tachiyomi.extension.ar.areamanga",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-0/tachiyomi-ar.areamanga-v1.4.34.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-0/tachiyomi-ar.areamanga-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/ar/areamanga/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-0/tachiyomi-ar.areamanga-v1.4.34.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-0/tachiyomi-ar.areamanga-v1.6.2.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104034",
-        "versionName": "1.4.34",
+        "extensionLib": "1.6",
+        "versionCode": "106002",
+        "versionName": "1.6.2",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -8725,13 +8746,13 @@
         "name": "Despair Manga",
         "packageName": "eu.kanade.tachiyomi.extension.ar.despairmanga",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-0/tachiyomi-ar.despairmanga-v1.4.32.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-0/tachiyomi-ar.despairmanga-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/ar/despairmanga/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-0/tachiyomi-ar.despairmanga-v1.4.32.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-0/tachiyomi-ar.despairmanga-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104032",
-        "versionName": "1.4.32",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -8851,13 +8872,13 @@
         "name": "Goon Scans",
         "packageName": "eu.kanade.tachiyomi.extension.ar.goonscans",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-0/tachiyomi-ar.goonscans-v1.4.32.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-0/tachiyomi-ar.goonscans-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/ar/goonscans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-0/tachiyomi-ar.goonscans-v1.4.32.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-0/tachiyomi-ar.goonscans-v1.6.1.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104032",
-        "versionName": "1.4.32",
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -8935,13 +8956,13 @@
         "name": "Hijala",
         "packageName": "eu.kanade.tachiyomi.extension.ar.hijala",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-0/tachiyomi-ar.hijala-v1.4.35.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-0/tachiyomi-ar.hijala-v1.6.3.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/ar/hijala/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-0/tachiyomi-ar.hijala-v1.4.35.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-0/tachiyomi-ar.hijala-v1.6.3.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104035",
-        "versionName": "1.4.35",
+        "extensionLib": "1.6",
+        "versionCode": "106003",
+        "versionName": "1.6.3",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -8998,13 +9019,13 @@
         "name": "Lava Scans",
         "packageName": "eu.kanade.tachiyomi.extension.ar.lavascans",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-0/tachiyomi-ar.lavascans-v1.4.33.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-0/tachiyomi-ar.lavascans-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/ar/lavascans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-0/tachiyomi-ar.lavascans-v1.4.33.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-0/tachiyomi-ar.lavascans-v1.6.1.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104033",
-        "versionName": "1.4.33",
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -9740,13 +9761,13 @@
         "name": "Evil production",
         "packageName": "eu.kanade.tachiyomi.extension.cs.evilproduction",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-0/tachiyomi-cs.evilproduction-v1.4.32.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-0/tachiyomi-cs.evilproduction-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/cs/evilproduction/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-0/tachiyomi-cs.evilproduction-v1.4.32.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-0/tachiyomi-cs.evilproduction-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104032",
-        "versionName": "1.4.32",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -9803,13 +9824,13 @@
         "name": "Akaza Scans",
         "packageName": "eu.kanade.tachiyomi.extension.en.akazascans",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-0/tachiyomi-en.akazascans-v1.4.32.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-0/tachiyomi-en.akazascans-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/en/akazascans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-0/tachiyomi-en.akazascans-v1.4.32.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-0/tachiyomi-en.akazascans-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104032",
-        "versionName": "1.4.32",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -10013,13 +10034,13 @@
         "name": "Arena Scans",
         "packageName": "eu.kanade.tachiyomi.extension.en.arenascans",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-0/tachiyomi-en.arenascans-v1.4.32.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-0/tachiyomi-en.arenascans-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/en/arenascans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-0/tachiyomi-en.arenascans-v1.4.32.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-0/tachiyomi-en.arenascans-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104032",
-        "versionName": "1.4.32",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -10069,6 +10090,48 @@
             "name": "Art Lapsa",
             "language": "en",
             "homeUrl": "https://artlapsa.com"
+          }
+        ]
+      },
+      {
+        "name": "Vortex Scans",
+        "packageName": "eu.kanade.tachiyomi.extension.en.arvenscans",
+        "resources": {
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-0/tachiyomi-en.arvenscans-v1.6.89.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/en/vortexscans/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-0/tachiyomi-en.arvenscans-v1.6.89.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106089",
+        "versionName": "1.6.89",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "2559570015828016575",
+            "name": "Vortex Scans",
+            "language": "en",
+            "homeUrl": "https://vortexscans.org"
+          }
+        ]
+      },
+      {
+        "name": "BrainRotComics",
+        "packageName": "eu.kanade.tachiyomi.extension.en.aryascans",
+        "resources": {
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-0/tachiyomi-en.aryascans-v1.6.57.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/en/brainrotcomics/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-0/tachiyomi-en.aryascans-v1.6.57.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106057",
+        "versionName": "1.6.57",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "7621724834621233483",
+            "name": "BrainRotComics",
+            "language": "en",
+            "homeUrl": "https://brainrotcomics.com"
           }
         ]
       },
@@ -10160,13 +10223,13 @@
         "name": "Athrea Scans",
         "packageName": "eu.kanade.tachiyomi.extension.en.athreascans",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-0/tachiyomi-en.athreascans-v1.4.33.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-0/tachiyomi-en.athreascans-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/en/athreascans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-0/tachiyomi-en.athreascans-v1.4.33.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-0/tachiyomi-en.athreascans-v1.6.1.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104033",
-        "versionName": "1.4.33",
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -10216,6 +10279,27 @@
             "name": "Aurora",
             "language": "en",
             "homeUrl": "https://comicaurora.com"
+          }
+        ]
+      },
+      {
+        "name": "Omoi",
+        "packageName": "eu.kanade.tachiyomi.extension.en.azuki",
+        "resources": {
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-0/tachiyomi-en.azuki-v1.4.2.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/en/omoi/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-0/tachiyomi-en.azuki-v1.4.2.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "104002",
+        "versionName": "1.4.2",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "8195282477201261072",
+            "name": "Omoi",
+            "language": "en",
+            "homeUrl": "https://www.omoi.com"
           }
         ]
       },
@@ -10328,9 +10412,9 @@
         "name": "BookWalker",
         "packageName": "eu.kanade.tachiyomi.extension.en.bookwalker",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-0/tachiyomi-en.bookwalker-v1.4.7.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-0/tachiyomi-en.bookwalker-v1.4.7.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/en/bookwalker/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-0/tachiyomi-en.bookwalker-v1.4.7.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-0/tachiyomi-en.bookwalker-v1.4.7.jar"
         },
         "extensionLib": "1.4",
         "versionCode": "104007",
@@ -10559,13 +10643,13 @@
         "name": "Comic Asura",
         "packageName": "eu.kanade.tachiyomi.extension.en.comicasura",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-0/tachiyomi-en.comicasura-v1.4.34.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-0/tachiyomi-en.comicasura-v1.6.3.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/en/comicasura/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-0/tachiyomi-en.comicasura-v1.4.34.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-0/tachiyomi-en.comicasura-v1.6.3.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104034",
-        "versionName": "1.4.34",
+        "extensionLib": "1.6",
+        "versionCode": "106003",
+        "versionName": "1.6.3",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -10661,27 +10745,6 @@
         ]
       },
       {
-        "name": "Comics Land",
-        "packageName": "eu.kanade.tachiyomi.extension.en.comicsland",
-        "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-0/tachiyomi-en.comicsland-v1.4.32.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/en/comicsland/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-0/tachiyomi-en.comicsland-v1.4.32.jar"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "104032",
-        "versionName": "1.4.32",
-        "contentWarning": "CONTENT_WARNING_NSFW",
-        "sources": [
-          {
-            "id": "2335132088242591909",
-            "name": "Comics Land",
-            "language": "en",
-            "homeUrl": "https://comicsland.org"
-          }
-        ]
-      },
-      {
         "name": "Comix",
         "packageName": "eu.kanade.tachiyomi.extension.en.comix",
         "resources": {
@@ -10728,27 +10791,6 @@
         ]
       },
       {
-        "name": "Crow Scans",
-        "packageName": "eu.kanade.tachiyomi.extension.en.crowscans",
-        "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-0/tachiyomi-en.crowscans-v1.4.32.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/en/crowscans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-0/tachiyomi-en.crowscans-v1.4.32.jar"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "104032",
-        "versionName": "1.4.32",
-        "contentWarning": "CONTENT_WARNING_SAFE",
-        "sources": [
-          {
-            "id": "2142724534705483892",
-            "name": "Crow Scans",
-            "language": "en",
-            "homeUrl": "https://crowscans.xyz"
-          }
-        ]
-      },
-      {
         "name": "Cucumber Manga",
         "packageName": "eu.kanade.tachiyomi.extension.en.cucumbermanga",
         "resources": {
@@ -10773,13 +10815,13 @@
         "name": "CulturedWorks",
         "packageName": "eu.kanade.tachiyomi.extension.en.culturedworks",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-0/tachiyomi-en.culturedworks-v1.4.33.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-0/tachiyomi-en.culturedworks-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/en/culturedworks/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-0/tachiyomi-en.culturedworks-v1.4.33.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-0/tachiyomi-en.culturedworks-v1.6.1.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104033",
-        "versionName": "1.4.33",
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -11235,13 +11277,13 @@
         "name": "Elf Toon",
         "packageName": "eu.kanade.tachiyomi.extension.en.elftoon",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-0/tachiyomi-en.elftoon-v1.4.34.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-0/tachiyomi-en.elftoon-v1.6.3.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/en/elftoon/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-0/tachiyomi-en.elftoon-v1.4.34.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-0/tachiyomi-en.elftoon-v1.6.3.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104034",
-        "versionName": "1.4.34",
+        "extensionLib": "1.6",
+        "versionCode": "106003",
+        "versionName": "1.6.3",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -11340,13 +11382,13 @@
         "name": "Scythe Scans",
         "packageName": "eu.kanade.tachiyomi.extension.en.erosscans",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-0/tachiyomi-en.erosscans-v1.4.40.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-0/tachiyomi-en.erosscans-v1.6.8.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/en/erosscans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-0/tachiyomi-en.erosscans-v1.4.40.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-0/tachiyomi-en.erosscans-v1.6.8.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104040",
-        "versionName": "1.4.40",
+        "extensionLib": "1.6",
+        "versionCode": "106008",
+        "versionName": "1.6.8",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -11361,13 +11403,13 @@
         "name": "Eva Scans",
         "packageName": "eu.kanade.tachiyomi.extension.en.evascans",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-0/tachiyomi-en.evascans-v1.4.35.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-0/tachiyomi-en.evascans-v1.6.3.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/en/evascans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-0/tachiyomi-en.evascans-v1.4.35.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-0/tachiyomi-en.evascans-v1.6.3.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104035",
-        "versionName": "1.4.35",
+        "extensionLib": "1.6",
+        "versionCode": "106003",
+        "versionName": "1.6.3",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -11571,13 +11613,13 @@
         "name": "Galaxy Manga",
         "packageName": "eu.kanade.tachiyomi.extension.en.galaxymanga",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-0/tachiyomi-en.galaxymanga-v1.4.32.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-0/tachiyomi-en.galaxymanga-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/en/galaxymanga/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-0/tachiyomi-en.galaxymanga-v1.4.32.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-0/tachiyomi-en.galaxymanga-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104032",
-        "versionName": "1.4.32",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -11844,13 +11886,13 @@
         "name": "Hades Scans",
         "packageName": "eu.kanade.tachiyomi.extension.en.hadesscans",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-0/tachiyomi-en.hadesscans-v1.4.33.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-0/tachiyomi-en.hadesscans-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/en/hadesscans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-0/tachiyomi-en.hadesscans-v1.4.33.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-0/tachiyomi-en.hadesscans-v1.6.1.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104033",
-        "versionName": "1.4.33",
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -11900,27 +11942,6 @@
             "name": "Hentai4Free",
             "language": "en",
             "homeUrl": "https://hentai4free.net"
-          }
-        ]
-      },
-      {
-        "name": "HentaiDex",
-        "packageName": "eu.kanade.tachiyomi.extension.en.hentaidex",
-        "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-0/tachiyomi-en.hentaidex-v1.4.34.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/en/hentaidex/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-0/tachiyomi-en.hentaidex-v1.4.34.jar"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "104034",
-        "versionName": "1.4.34",
-        "contentWarning": "CONTENT_WARNING_NSFW",
-        "sources": [
-          {
-            "id": "948056929092229440",
-            "name": "HentaiDex",
-            "language": "en",
-            "homeUrl": "https://dexhentai.com"
           }
         ]
       },
@@ -12366,6 +12387,27 @@
         ]
       },
       {
+        "name": "Hive Scans",
+        "packageName": "eu.kanade.tachiyomi.extension.en.infernalvoidscans",
+        "resources": {
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-0/tachiyomi-en.infernalvoidscans-v1.6.71.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/en/hivescans/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-0/tachiyomi-en.infernalvoidscans-v1.6.71.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106071",
+        "versionName": "1.6.71",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "6311653253665366075",
+            "name": "Hive Scans",
+            "language": "en",
+            "homeUrl": "https://hivetoons.org"
+          }
+        ]
+      },
+      {
         "name": "InfinityScans",
         "packageName": "eu.kanade.tachiyomi.extension.en.infinityscans",
         "resources": {
@@ -12474,9 +12516,9 @@
         "name": "J-Novel",
         "packageName": "eu.kanade.tachiyomi.extension.en.jnovel",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-0/tachiyomi-en.jnovel-v1.4.4.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-0/tachiyomi-en.jnovel-v1.4.4.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/en/jnovel/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-0/tachiyomi-en.jnovel-v1.4.4.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-0/tachiyomi-en.jnovel-v1.4.4.jar"
         },
         "extensionLib": "1.4",
         "versionCode": "104004",
@@ -12543,13 +12585,13 @@
         "name": "Kappa Beast",
         "packageName": "eu.kanade.tachiyomi.extension.en.kappabeast",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-0/tachiyomi-en.kappabeast-v1.4.33.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-0/tachiyomi-en.kappabeast-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/en/kappabeast/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-0/tachiyomi-en.kappabeast-v1.4.33.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-0/tachiyomi-en.kappabeast-v1.6.1.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104033",
-        "versionName": "1.4.33",
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -12690,13 +12732,13 @@
         "name": "King of Shojo",
         "packageName": "eu.kanade.tachiyomi.extension.en.kingofshojo",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-0/tachiyomi-en.kingofshojo-v1.4.32.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-0/tachiyomi-en.kingofshojo-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/en/kingofshojo/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-0/tachiyomi-en.kingofshojo-v1.4.32.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-0/tachiyomi-en.kingofshojo-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104032",
-        "versionName": "1.4.32",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -12837,13 +12879,13 @@
         "name": "Lagoon Scans",
         "packageName": "eu.kanade.tachiyomi.extension.en.lagoonscans",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-0/tachiyomi-en.lagoonscans-v1.4.32.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-0/tachiyomi-en.lagoonscans-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/en/lagoonscans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-0/tachiyomi-en.lagoonscans-v1.4.32.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-0/tachiyomi-en.lagoonscans-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104032",
-        "versionName": "1.4.32",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -13110,20 +13152,24 @@
         "name": "Madara Scans",
         "packageName": "eu.kanade.tachiyomi.extension.en.madarascans",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-0/tachiyomi-en.madarascans-v1.4.35.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-0/tachiyomi-en.madarascans-v1.6.4.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/en/madarascans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-0/tachiyomi-en.madarascans-v1.4.35.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-0/tachiyomi-en.madarascans-v1.6.4.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104035",
-        "versionName": "1.4.35",
+        "extensionLib": "1.6",
+        "versionCode": "106004",
+        "versionName": "1.6.4",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "9025563662441338944",
             "name": "Madara Scans",
             "language": "en",
-            "homeUrl": "https://madarascans.org"
+            "homeUrl": "https://madarascans.org",
+            "mirrorUrls": [
+              "https://madarascans.org",
+              "https://madarascans.com"
+            ]
           }
         ]
       },
@@ -13502,6 +13548,267 @@
             "name": "Manga District",
             "language": "en",
             "homeUrl": "https://mangadistrict.com"
+          }
+        ]
+      },
+      {
+        "name": "Mangadotnet",
+        "packageName": "eu.kanade.tachiyomi.extension.en.mangadotnet",
+        "resources": {
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-0/tachiyomi-en.mangadotnet-v1.6.20.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/all/mangadotnet/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-0/tachiyomi-en.mangadotnet-v1.6.20.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106020",
+        "versionName": "1.6.20",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "5133570518916566066",
+            "name": "Mangadotnet",
+            "language": "ar",
+            "homeUrl": "https://mangadot.net"
+          },
+          {
+            "id": "4728703871864086205",
+            "name": "Mangadotnet",
+            "language": "bn",
+            "homeUrl": "https://mangadot.net"
+          },
+          {
+            "id": "4621039982977056475",
+            "name": "Mangadotnet",
+            "language": "bg",
+            "homeUrl": "https://mangadot.net"
+          },
+          {
+            "id": "8689086897953658974",
+            "name": "Mangadotnet",
+            "language": "my",
+            "homeUrl": "https://mangadot.net"
+          },
+          {
+            "id": "4593442970144109426",
+            "name": "Mangadotnet",
+            "language": "zh",
+            "homeUrl": "https://mangadot.net"
+          },
+          {
+            "id": "2076066796458496830",
+            "name": "Mangadotnet",
+            "language": "zh-Hant",
+            "homeUrl": "https://mangadot.net"
+          },
+          {
+            "id": "182506561627032263",
+            "name": "Mangadotnet",
+            "language": "cs",
+            "homeUrl": "https://mangadot.net"
+          },
+          {
+            "id": "522919629093846860",
+            "name": "Mangadotnet",
+            "language": "da",
+            "homeUrl": "https://mangadot.net"
+          },
+          {
+            "id": "5339181991315919474",
+            "name": "Mangadotnet",
+            "language": "nl",
+            "homeUrl": "https://mangadot.net"
+          },
+          {
+            "id": "5900936305360403385",
+            "name": "Mangadotnet",
+            "language": "en",
+            "homeUrl": "https://mangadot.net"
+          },
+          {
+            "id": "5536176722691621839",
+            "name": "Mangadotnet",
+            "language": "tl",
+            "homeUrl": "https://mangadot.net"
+          },
+          {
+            "id": "7568879765052968178",
+            "name": "Mangadotnet",
+            "language": "fi",
+            "homeUrl": "https://mangadot.net"
+          },
+          {
+            "id": "6544312035114371248",
+            "name": "Mangadotnet",
+            "language": "fr",
+            "homeUrl": "https://mangadot.net"
+          },
+          {
+            "id": "7781185259229560796",
+            "name": "Mangadotnet",
+            "language": "ka",
+            "homeUrl": "https://mangadot.net"
+          },
+          {
+            "id": "1739134904773959471",
+            "name": "Mangadotnet",
+            "language": "de",
+            "homeUrl": "https://mangadot.net"
+          },
+          {
+            "id": "6280808899001059050",
+            "name": "Mangadotnet",
+            "language": "el",
+            "homeUrl": "https://mangadot.net"
+          },
+          {
+            "id": "7524478288761759786",
+            "name": "Mangadotnet",
+            "language": "he",
+            "homeUrl": "https://mangadot.net"
+          },
+          {
+            "id": "4686432307246610016",
+            "name": "Mangadotnet",
+            "language": "hi",
+            "homeUrl": "https://mangadot.net"
+          },
+          {
+            "id": "2744567066632059507",
+            "name": "Mangadotnet",
+            "language": "hu",
+            "homeUrl": "https://mangadot.net"
+          },
+          {
+            "id": "8591108444263884327",
+            "name": "Mangadotnet",
+            "language": "id",
+            "homeUrl": "https://mangadot.net"
+          },
+          {
+            "id": "8788147393700258423",
+            "name": "Mangadotnet",
+            "language": "it",
+            "homeUrl": "https://mangadot.net"
+          },
+          {
+            "id": "2305771977147956314",
+            "name": "Mangadotnet",
+            "language": "ja",
+            "homeUrl": "https://mangadot.net"
+          },
+          {
+            "id": "8733946525904795862",
+            "name": "Mangadotnet",
+            "language": "ko",
+            "homeUrl": "https://mangadot.net"
+          },
+          {
+            "id": "5980076819966447323",
+            "name": "Mangadotnet",
+            "language": "la",
+            "homeUrl": "https://mangadot.net"
+          },
+          {
+            "id": "3456620422576095825",
+            "name": "Mangadotnet",
+            "language": "lt",
+            "homeUrl": "https://mangadot.net"
+          },
+          {
+            "id": "2379671138411944871",
+            "name": "Mangadotnet",
+            "language": "ms",
+            "homeUrl": "https://mangadot.net"
+          },
+          {
+            "id": "9192319104809604483",
+            "name": "Mangadotnet",
+            "language": "mn",
+            "homeUrl": "https://mangadot.net"
+          },
+          {
+            "id": "2111970709663576933",
+            "name": "Mangadotnet",
+            "language": "no",
+            "homeUrl": "https://mangadot.net"
+          },
+          {
+            "id": "6840185760082019759",
+            "name": "Mangadotnet",
+            "language": "fa",
+            "homeUrl": "https://mangadot.net"
+          },
+          {
+            "id": "516446519459282312",
+            "name": "Mangadotnet",
+            "language": "pl",
+            "homeUrl": "https://mangadot.net"
+          },
+          {
+            "id": "1374245104599191336",
+            "name": "Mangadotnet",
+            "language": "pt",
+            "homeUrl": "https://mangadot.net"
+          },
+          {
+            "id": "6883842335519142390",
+            "name": "Mangadotnet",
+            "language": "pt-BR",
+            "homeUrl": "https://mangadot.net"
+          },
+          {
+            "id": "7223291528565862680",
+            "name": "Mangadotnet",
+            "language": "ro",
+            "homeUrl": "https://mangadot.net"
+          },
+          {
+            "id": "8911989140118399619",
+            "name": "Mangadotnet",
+            "language": "ru",
+            "homeUrl": "https://mangadot.net"
+          },
+          {
+            "id": "1356109540530417190",
+            "name": "Mangadotnet",
+            "language": "es",
+            "homeUrl": "https://mangadot.net"
+          },
+          {
+            "id": "5046796980408019790",
+            "name": "Mangadotnet",
+            "language": "es-419",
+            "homeUrl": "https://mangadot.net"
+          },
+          {
+            "id": "4958143963089747877",
+            "name": "Mangadotnet",
+            "language": "sv",
+            "homeUrl": "https://mangadot.net"
+          },
+          {
+            "id": "8348427309728988846",
+            "name": "Mangadotnet",
+            "language": "th",
+            "homeUrl": "https://mangadot.net"
+          },
+          {
+            "id": "5964430973280552505",
+            "name": "Mangadotnet",
+            "language": "tr",
+            "homeUrl": "https://mangadot.net"
+          },
+          {
+            "id": "3578850460057110410",
+            "name": "Mangadotnet",
+            "language": "uk",
+            "homeUrl": "https://mangadot.net"
+          },
+          {
+            "id": "3741155905873931805",
+            "name": "Mangadotnet",
+            "language": "vi",
+            "homeUrl": "https://mangadot.net"
           }
         ]
       },
@@ -14379,13 +14686,13 @@
         "name": "Manga Trend",
         "packageName": "eu.kanade.tachiyomi.extension.en.mangatrend",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-0/tachiyomi-en.mangatrend-v1.4.32.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-0/tachiyomi-en.mangatrend-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/en/mangatrend/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-0/tachiyomi-en.mangatrend-v1.4.32.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-0/tachiyomi-en.mangatrend-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104032",
-        "versionName": "1.4.32",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -14400,13 +14707,13 @@
         "name": "MangaTX",
         "packageName": "eu.kanade.tachiyomi.extension.en.mangatx",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-0/tachiyomi-en.mangatx-v1.4.33.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-0/tachiyomi-en.mangatx-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/en/mangatx/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-0/tachiyomi-en.mangatx-v1.4.33.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-0/tachiyomi-en.mangatx-v1.6.1.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104033",
-        "versionName": "1.4.33",
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -14582,27 +14889,6 @@
             "name": "Manhua Rush",
             "language": "en",
             "homeUrl": "https://manhuarush.vercel.app"
-          }
-        ]
-      },
-      {
-        "name": "Manhuascan.us",
-        "packageName": "eu.kanade.tachiyomi.extension.en.manhuascanus",
-        "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-0/tachiyomi-en.manhuascanus-v1.4.32.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/en/manhuascanus/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-0/tachiyomi-en.manhuascanus-v1.4.32.jar"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "104032",
-        "versionName": "1.4.32",
-        "contentWarning": "CONTENT_WARNING_MIXED",
-        "sources": [
-          {
-            "id": "6542792852936422236",
-            "name": "Manhuascan.us",
-            "language": "en",
-            "homeUrl": "https://manhuascan.us"
           }
         ]
       },
@@ -14859,27 +15145,6 @@
         ]
       },
       {
-        "name": "Manhwalover",
-        "packageName": "eu.kanade.tachiyomi.extension.en.manhwalover",
-        "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-0/tachiyomi-en.manhwalover-v1.4.32.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/en/manhwalover/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-0/tachiyomi-en.manhwalover-v1.4.32.jar"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "104032",
-        "versionName": "1.4.32",
-        "contentWarning": "CONTENT_WARNING_NSFW",
-        "sources": [
-          {
-            "id": "5839556980480126224",
-            "name": "Manhwalover",
-            "language": "en",
-            "homeUrl": "https://www.manhwalover.org"
-          }
-        ]
-      },
-      {
         "name": "ManhwaManhua",
         "packageName": "eu.kanade.tachiyomi.extension.en.manhwamanhua",
         "resources": {
@@ -15010,23 +15275,23 @@
         ]
       },
       {
-        "name": "Manhwax",
-        "packageName": "eu.kanade.tachiyomi.extension.en.manhwax",
+        "name": "HentaiTnT",
+        "packageName": "eu.kanade.tachiyomi.extension.en.manhwaxxl",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-0/tachiyomi-en.manhwax-v1.4.32.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/en/manhwax/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-0/tachiyomi-en.manhwax-v1.4.32.jar"
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-0/tachiyomi-en.manhwaxxl-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/en/hentaitnt/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-0/tachiyomi-en.manhwaxxl-v1.6.1.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104032",
-        "versionName": "1.4.32",
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
-            "id": "7310092753988370613",
-            "name": "Manhwax",
+            "id": "1823408414151467671",
+            "name": "HentaiTnT",
             "language": "en",
-            "homeUrl": "https://manhwax.top"
+            "homeUrl": "https://hentaitnt.net"
           }
         ]
       },
@@ -15391,13 +15656,13 @@
         "name": "NexComic",
         "packageName": "eu.kanade.tachiyomi.extension.en.nexcomic",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-0/tachiyomi-en.nexcomic-v1.4.32.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-0/tachiyomi-en.nexcomic-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/en/nexcomic/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-0/tachiyomi-en.nexcomic-v1.4.32.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-0/tachiyomi-en.nexcomic-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104032",
-        "versionName": "1.4.32",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -15405,27 +15670,6 @@
             "name": "NexComic",
             "language": "en",
             "homeUrl": "https://nexcomic.com"
-          }
-        ]
-      },
-      {
-        "name": "Nika Toons",
-        "packageName": "eu.kanade.tachiyomi.extension.en.nikatoons",
-        "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-0/tachiyomi-en.nikatoons-v1.4.32.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/en/nikatoons/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-0/tachiyomi-en.nikatoons-v1.4.32.jar"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "104032",
-        "versionName": "1.4.32",
-        "contentWarning": "CONTENT_WARNING_SAFE",
-        "sources": [
-          {
-            "id": "1688373109141386238",
-            "name": "Nika Toons",
-            "language": "en",
-            "homeUrl": "https://nikatoons.com"
           }
         ]
       },
@@ -15531,27 +15775,6 @@
             "name": "NovelCrow",
             "language": "en",
             "homeUrl": "https://novelcrow.com"
-          }
-        ]
-      },
-      {
-        "name": "Noxen Scans",
-        "packageName": "eu.kanade.tachiyomi.extension.en.noxenscans",
-        "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-en.noxenscans-v1.4.32.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/en/noxenscans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-en.noxenscans-v1.4.32.jar"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "104032",
-        "versionName": "1.4.32",
-        "contentWarning": "CONTENT_WARNING_SAFE",
-        "sources": [
-          {
-            "id": "3116973119218453326",
-            "name": "Noxen Scans",
-            "language": "en",
-            "homeUrl": "https://noxenscan.com"
           }
         ]
       },
@@ -16039,6 +16262,27 @@
         ]
       },
       {
+        "name": "Rackus",
+        "packageName": "eu.kanade.tachiyomi.extension.en.pmscans",
+        "resources": {
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-en.pmscans-v1.6.7.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/en/rackus/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-en.pmscans-v1.6.7.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106007",
+        "versionName": "1.6.7",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "263040414613624318",
+            "name": "Rackus",
+            "language": "en",
+            "homeUrl": "https://rackusreads.com"
+          }
+        ]
+      },
+      {
         "name": "PornComix",
         "packageName": "eu.kanade.tachiyomi.extension.en.porncomix",
         "resources": {
@@ -16105,13 +16349,13 @@
         "name": "Rage Scans",
         "packageName": "eu.kanade.tachiyomi.extension.en.ragescans",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-en.ragescans-v1.4.34.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-en.ragescans-v1.6.3.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/en/ragescans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-en.ragescans-v1.4.34.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-en.ragescans-v1.6.3.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104034",
-        "versionName": "1.4.34",
+        "extensionLib": "1.6",
+        "versionCode": "106003",
+        "versionName": "1.6.3",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -16147,13 +16391,13 @@
         "name": "Raven Scans",
         "packageName": "eu.kanade.tachiyomi.extension.en.ravenscans",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-en.ravenscans-v1.4.37.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-en.ravenscans-v1.6.5.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/en/ravenscans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-en.ravenscans-v1.4.37.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-en.ravenscans-v1.6.5.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104037",
-        "versionName": "1.4.37",
+        "extensionLib": "1.6",
+        "versionCode": "106005",
+        "versionName": "1.6.5",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -16168,13 +16412,13 @@
         "name": "Razure",
         "packageName": "eu.kanade.tachiyomi.extension.en.razure",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-en.razure-v1.4.32.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-en.razure-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/en/razure/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-en.razure-v1.4.32.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-en.razure-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104032",
-        "versionName": "1.4.32",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -16631,27 +16875,6 @@
         ]
       },
       {
-        "name": "Rest Scans",
-        "packageName": "eu.kanade.tachiyomi.extension.en.restscans",
-        "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-en.restscans-v1.4.32.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/en/restscans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-en.restscans-v1.4.32.jar"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "104032",
-        "versionName": "1.4.32",
-        "contentWarning": "CONTENT_WARNING_NSFW",
-        "sources": [
-          {
-            "id": "4014337104958146767",
-            "name": "Rest Scans",
-            "language": "en",
-            "homeUrl": "https://restscans.com"
-          }
-        ]
-      },
-      {
         "name": "Revival Scans",
         "packageName": "eu.kanade.tachiyomi.extension.en.revivalscans",
         "resources": {
@@ -16718,13 +16941,13 @@
         "name": "Rizz Comic",
         "packageName": "eu.kanade.tachiyomi.extension.en.rizzcomic",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-en.rizzcomic-v1.4.46.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-en.rizzcomic-v1.6.15.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/en/rizzcomic/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-en.rizzcomic-v1.4.46.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-en.rizzcomic-v1.6.15.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104046",
-        "versionName": "1.4.46",
+        "extensionLib": "1.6",
+        "versionCode": "106015",
+        "versionName": "1.6.15",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -16739,13 +16962,13 @@
         "name": "Rizz Comic (unoriginal)",
         "packageName": "eu.kanade.tachiyomi.extension.en.rizzcomicunoriginal",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-en.rizzcomicunoriginal-v1.4.32.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-en.rizzcomicunoriginal-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/en/rizzcomicunoriginal/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-en.rizzcomicunoriginal-v1.4.32.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-en.rizzcomicunoriginal-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104032",
-        "versionName": "1.4.32",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -16760,13 +16983,13 @@
         "name": "RokariComics",
         "packageName": "eu.kanade.tachiyomi.extension.en.rokaricomics",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-en.rokaricomics-v1.4.34.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-en.rokaricomics-v1.6.4.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/en/rokaricomics/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-en.rokaricomics-v1.4.34.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-en.rokaricomics-v1.6.4.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104034",
-        "versionName": "1.4.34",
+        "extensionLib": "1.6",
+        "versionCode": "106004",
+        "versionName": "1.6.4",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -16823,13 +17046,13 @@
         "name": "S2Manga",
         "packageName": "eu.kanade.tachiyomi.extension.en.s2manga",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-en.s2manga-v1.6.58.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-en.s2manga-v1.6.59.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/en/s2manga/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-en.s2manga-v1.6.58.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-en.s2manga-v1.6.59.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106058",
-        "versionName": "1.6.58",
+        "versionCode": "106059",
+        "versionName": "1.6.59",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -17009,6 +17232,27 @@
         ]
       },
       {
+        "name": "Violet Scans",
+        "packageName": "eu.kanade.tachiyomi.extension.en.shojoscans",
+        "resources": {
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-en.shojoscans-v1.6.5.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/en/violetscans/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-en.shojoscans-v1.6.5.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106005",
+        "versionName": "1.6.5",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "9079184529211162476",
+            "name": "Violet Scans",
+            "language": "en",
+            "homeUrl": "https://violetscans.org"
+          }
+        ]
+      },
+      {
         "name": "Siren Scans",
         "packageName": "eu.kanade.tachiyomi.extension.en.sirenscans",
         "resources": {
@@ -17026,27 +17270,6 @@
             "name": "Siren Scans",
             "language": "en",
             "homeUrl": "https://sirenscans.com"
-          }
-        ]
-      },
-      {
-        "name": "Sky Manga",
-        "packageName": "eu.kanade.tachiyomi.extension.en.skymanga",
-        "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-en.skymanga-v1.4.33.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/en/skymanga/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-en.skymanga-v1.4.33.jar"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "104033",
-        "versionName": "1.4.33",
-        "contentWarning": "CONTENT_WARNING_NSFW",
-        "sources": [
-          {
-            "id": "3308452263937112975",
-            "name": "Sky Manga",
-            "language": "en",
-            "homeUrl": "https://skymanga.work"
           }
         ]
       },
@@ -17416,13 +17639,13 @@
         "name": "Thunder Scans",
         "packageName": "eu.kanade.tachiyomi.extension.en.thunderscans",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-en.thunderscans-v1.4.33.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-en.thunderscans-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/en/thunderscans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-en.thunderscans-v1.4.33.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-en.thunderscans-v1.6.1.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104033",
-        "versionName": "1.4.33",
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -18409,13 +18632,13 @@
         "name": "Asia Lotus",
         "packageName": "eu.kanade.tachiyomi.extension.es.asialotus",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-es.asialotus-v1.4.33.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-es.asialotus-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/es/asialotus/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-es.asialotus-v1.4.33.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-es.asialotus-v1.6.1.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104033",
-        "versionName": "1.4.33",
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -18493,13 +18716,13 @@
         "name": "Bloom Scans",
         "packageName": "eu.kanade.tachiyomi.extension.es.bloomscans",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-es.bloomscans-v1.4.35.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-es.bloomscans-v1.6.3.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/es/bloomscans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-es.bloomscans-v1.4.35.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-es.bloomscans-v1.6.3.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104035",
-        "versionName": "1.4.35",
+        "extensionLib": "1.6",
+        "versionCode": "106003",
+        "versionName": "1.6.3",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -18514,13 +18737,13 @@
         "name": "BokugenTranslation",
         "packageName": "eu.kanade.tachiyomi.extension.es.bokugentranslation",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-es.bokugentranslation-v1.4.50.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-es.bokugentranslation-v1.6.18.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/es/bokugentranslation/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-es.bokugentranslation-v1.4.50.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-es.bokugentranslation-v1.6.18.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104050",
-        "versionName": "1.4.50",
+        "extensionLib": "1.6",
+        "versionCode": "106018",
+        "versionName": "1.6.18",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -18535,13 +18758,13 @@
         "name": "Bymichi Scan",
         "packageName": "eu.kanade.tachiyomi.extension.es.bymichiscan",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-es.bymichiscan-v1.4.33.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-es.bymichiscan-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/es/bymichiscan/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-es.bymichiscan-v1.4.33.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-es.bymichiscan-v1.6.1.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104033",
-        "versionName": "1.4.33",
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -18619,13 +18842,13 @@
         "name": "Celestial Moon",
         "packageName": "eu.kanade.tachiyomi.extension.es.celestialmoon",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-es.celestialmoon-v1.4.34.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-es.celestialmoon-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/es/celestialmoon/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-es.celestialmoon-v1.4.34.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-es.celestialmoon-v1.6.2.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104034",
-        "versionName": "1.4.34",
+        "extensionLib": "1.6",
+        "versionCode": "106002",
+        "versionName": "1.6.2",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -18640,13 +18863,13 @@
         "name": "Cerberus Series",
         "packageName": "eu.kanade.tachiyomi.extension.es.cerberusseries",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-es.cerberusseries-v1.4.33.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-es.cerberusseries-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/es/cerberusseries/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-es.cerberusseries-v1.4.33.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-es.cerberusseries-v1.6.1.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104033",
-        "versionName": "1.4.33",
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -19522,13 +19745,13 @@
         "name": "Luna Pieces",
         "packageName": "eu.kanade.tachiyomi.extension.es.lunapieces",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-es.lunapieces-v1.4.32.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-es.lunapieces-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/es/lunapieces/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-es.lunapieces-v1.4.32.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-es.lunapieces-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104032",
-        "versionName": "1.4.32",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -19606,13 +19829,13 @@
         "name": "Manga Mukai",
         "packageName": "eu.kanade.tachiyomi.extension.es.mangashiina",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-es.mangashiina-v1.4.33.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-es.mangashiina-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/es/mangashiina/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-es.mangashiina-v1.4.33.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-es.mangashiina-v1.6.1.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104033",
-        "versionName": "1.4.33",
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -19669,13 +19892,13 @@
         "name": "Manga TV",
         "packageName": "eu.kanade.tachiyomi.extension.es.mangatv",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-es.mangatv-v1.4.35.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-es.mangatv-v1.6.3.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/es/mangatv/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-es.mangatv-v1.4.35.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-es.mangatv-v1.6.3.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104035",
-        "versionName": "1.4.35",
+        "extensionLib": "1.6",
+        "versionCode": "106003",
+        "versionName": "1.6.3",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -19921,13 +20144,13 @@
         "name": "NekoScans",
         "packageName": "eu.kanade.tachiyomi.extension.es.nekoscans",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-es.nekoscans-v1.4.40.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-es.nekoscans-v1.6.8.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/es/nekoscans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-es.nekoscans-v1.4.40.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-es.nekoscans-v1.6.8.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104040",
-        "versionName": "1.4.40",
+        "extensionLib": "1.6",
+        "versionCode": "106008",
+        "versionName": "1.6.8",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -20005,13 +20228,13 @@
         "name": "Nova Manhwas",
         "packageName": "eu.kanade.tachiyomi.extension.es.novamanhwa",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-es.novamanhwa-v1.4.32.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-es.novamanhwa-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/es/novamanhwa/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-es.novamanhwa-v1.4.32.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-es.novamanhwa-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104032",
-        "versionName": "1.4.32",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -20257,13 +20480,13 @@
         "name": "SkyMangas",
         "packageName": "eu.kanade.tachiyomi.extension.es.skymangas",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-es.skymangas-v1.4.33.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-es.skymangas-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/es/skymangas/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-es.skymangas-v1.4.33.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-es.skymangas-v1.6.1.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104033",
-        "versionName": "1.4.33",
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -20380,6 +20603,27 @@
         ]
       },
       {
+        "name": "TMOHentai (unoriginal)",
+        "packageName": "eu.kanade.tachiyomi.extension.es.tmohentaiunoriginal",
+        "resources": {
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-es.tmohentaiunoriginal-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/es/tmohentaiunoriginal/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-es.tmohentaiunoriginal-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "6465093267346907024",
+            "name": "TMOHentai (unoriginal)",
+            "language": "es",
+            "homeUrl": "https://tmohentai.app"
+          }
+        ]
+      },
+      {
         "name": "Toon-es",
         "packageName": "eu.kanade.tachiyomi.extension.es.toones",
         "resources": {
@@ -20488,13 +20732,13 @@
         "name": "Uchuujin Projects",
         "packageName": "eu.kanade.tachiyomi.extension.es.uchuujinprojects",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-es.uchuujinprojects-v1.4.34.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-es.uchuujinprojects-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/es/uchuujinprojects/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-es.uchuujinprojects-v1.4.34.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-es.uchuujinprojects-v1.6.2.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104034",
-        "versionName": "1.4.34",
+        "extensionLib": "1.6",
+        "versionCode": "106002",
+        "versionName": "1.6.2",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -20592,6 +20836,27 @@
             "name": "Yuri-Online",
             "language": "es",
             "homeUrl": "https://yuri-online.com"
+          }
+        ]
+      },
+      {
+        "name": "ZonaTMO.org (unoriginal)",
+        "packageName": "eu.kanade.tachiyomi.extension.es.zonatmoorgunoriginal",
+        "resources": {
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-es.zonatmoorgunoriginal-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/es/zonatmoorgunoriginal/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-es.zonatmoorgunoriginal-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "7391754027638645731",
+            "name": "ZonaTMO.org (unoriginal)",
+            "language": "es",
+            "homeUrl": "https://zonatmo.org"
           }
         ]
       },
@@ -20788,13 +21053,13 @@
         "name": "Dassou Scan",
         "packageName": "eu.kanade.tachiyomi.extension.fr.dassouscan",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-fr.dassouscan-v1.4.51.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-fr.dassouscan-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/fr/dassouscan/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-fr.dassouscan-v1.4.51.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-fr.dassouscan-v1.6.1.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104051",
-        "versionName": "1.4.51",
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -21019,13 +21284,13 @@
         "name": "Kiwiya Scans",
         "packageName": "eu.kanade.tachiyomi.extension.fr.kiwiyascans",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-fr.kiwiyascans-v1.4.32.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-fr.kiwiyascans-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/fr/kiwiyascans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-fr.kiwiyascans-v1.4.32.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-fr.kiwiyascans-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104032",
-        "versionName": "1.4.32",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -21061,13 +21326,13 @@
         "name": "Lelmanga",
         "packageName": "eu.kanade.tachiyomi.extension.fr.lelmanga",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-fr.lelmanga-v1.4.33.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-fr.lelmanga-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/fr/lelmanga/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-fr.lelmanga-v1.4.33.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-fr.lelmanga-v1.6.1.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104033",
-        "versionName": "1.4.33",
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -21289,27 +21554,6 @@
         ]
       },
       {
-        "name": "Mangas Scans",
-        "packageName": "eu.kanade.tachiyomi.extension.fr.mangasscans",
-        "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-fr.mangasscans-v1.4.33.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/fr/mangasscans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-fr.mangasscans-v1.4.33.jar"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "104033",
-        "versionName": "1.4.33",
-        "contentWarning": "CONTENT_WARNING_SAFE",
-        "sources": [
-          {
-            "id": "8284543629565327451",
-            "name": "Mangas Scans",
-            "language": "fr",
-            "homeUrl": "https://mangas-scans.com"
-          }
-        ]
-      },
-      {
         "name": "Ono",
         "packageName": "eu.kanade.tachiyomi.extension.fr.ono",
         "resources": {
@@ -21418,13 +21662,13 @@
         "name": "Pornhwa.fr",
         "packageName": "eu.kanade.tachiyomi.extension.fr.pornhwafr",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-fr.pornhwafr-v1.4.32.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-fr.pornhwafr-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/fr/pornhwafr/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-fr.pornhwafr-v1.4.32.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-fr.pornhwafr-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104032",
-        "versionName": "1.4.32",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -21712,13 +21956,13 @@
         "name": "Sushi-Scan",
         "packageName": "eu.kanade.tachiyomi.extension.fr.sushiscan",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-fr.sushiscan-v1.4.49.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-fr.sushiscan-v1.6.17.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/fr/sushiscan/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-fr.sushiscan-v1.4.49.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-fr.sushiscan-v1.6.17.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104049",
-        "versionName": "1.4.49",
+        "extensionLib": "1.6",
+        "versionCode": "106017",
+        "versionName": "1.6.17",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -21733,13 +21977,13 @@
         "name": "Sushiscan.fr",
         "packageName": "eu.kanade.tachiyomi.extension.fr.sushiscanfr",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-fr.sushiscanfr-v1.4.35.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-fr.sushiscanfr-v1.6.3.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/fr/sushiscanfr/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-fr.sushiscanfr-v1.4.35.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-fr.sushiscanfr-v1.6.3.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104035",
-        "versionName": "1.4.35",
+        "extensionLib": "1.6",
+        "versionCode": "106003",
+        "versionName": "1.6.3",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -21796,13 +22040,13 @@
         "name": "YaoiScan",
         "packageName": "eu.kanade.tachiyomi.extension.fr.yaoiscan",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-fr.yaoiscan-v1.4.33.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-fr.yaoiscan-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/fr/yaoiscan/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-fr.yaoiscan-v1.4.33.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-fr.yaoiscan-v1.6.1.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104033",
-        "versionName": "1.4.33",
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -21817,20 +22061,20 @@
         "name": "Luvyaa",
         "packageName": "eu.kanade.tachiyomi.extension.id.Luvyaa",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-id.Luvyaa-v1.4.36.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-id.Luvyaa-v1.6.5.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/id/Luvyaa/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-id.Luvyaa-v1.4.36.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-id.Luvyaa-v1.6.5.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104036",
-        "versionName": "1.4.36",
+        "extensionLib": "1.6",
+        "versionCode": "106005",
+        "versionName": "1.6.5",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
             "id": "1316015886884953118",
             "name": "Luvyaa",
             "language": "id",
-            "homeUrl": "https://v4.luvyaa.co"
+            "homeUrl": "https://v5.luvyaa.co"
           }
         ]
       },
@@ -21880,13 +22124,13 @@
         "name": "Astral Scans",
         "packageName": "eu.kanade.tachiyomi.extension.id.astralscans",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-id.astralscans-v1.4.39.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-id.astralscans-v1.6.7.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/id/astralscans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-id.astralscans-v1.4.39.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-id.astralscans-v1.6.7.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104039",
-        "versionName": "1.4.39",
+        "extensionLib": "1.6",
+        "versionCode": "106007",
+        "versionName": "1.6.7",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -22006,13 +22250,13 @@
         "name": "DailySuka",
         "packageName": "eu.kanade.tachiyomi.extension.id.dailysuka",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-id.dailysuka-v1.4.33.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-id.dailysuka-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/id/dailysuka/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-id.dailysuka-v1.4.33.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-id.dailysuka-v1.6.1.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104033",
-        "versionName": "1.4.33",
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -22027,13 +22271,13 @@
         "name": "Dojing.net",
         "packageName": "eu.kanade.tachiyomi.extension.id.dojingnet",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-id.dojingnet-v1.4.33.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-id.dojingnet-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/id/dojingnet/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-id.dojingnet-v1.4.33.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-id.dojingnet-v1.6.1.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104033",
-        "versionName": "1.4.33",
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -22069,13 +22313,13 @@
         "name": "Doujinku",
         "packageName": "eu.kanade.tachiyomi.extension.id.doujinku",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-id.doujinku-v1.4.35.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-id.doujinku-v1.6.3.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/id/doujinku/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-id.doujinku-v1.4.35.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-id.doujinku-v1.6.3.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104035",
-        "versionName": "1.4.35",
+        "extensionLib": "1.6",
+        "versionCode": "106003",
+        "versionName": "1.6.3",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -22195,13 +22439,13 @@
         "name": "Izanami Scans",
         "packageName": "eu.kanade.tachiyomi.extension.id.izanamiscans",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-id.izanamiscans-v1.4.33.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-id.izanamiscans-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/id/izanamiscans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-id.izanamiscans-v1.4.33.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-id.izanamiscans-v1.6.1.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104033",
-        "versionName": "1.4.33",
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -22216,13 +22460,13 @@
         "name": "Kanzenin",
         "packageName": "eu.kanade.tachiyomi.extension.id.kanzenin",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-id.kanzenin-v1.4.33.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-id.kanzenin-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/lib-multisrc/mangathemesia/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-id.kanzenin-v1.4.33.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-id.kanzenin-v1.6.1.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104033",
-        "versionName": "1.4.33",
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -22279,13 +22523,13 @@
         "name": "APKOMIK",
         "packageName": "eu.kanade.tachiyomi.extension.id.komikav",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-id.komikav-v1.4.38.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-id.komikav-v1.6.6.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/id/komikav/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-id.komikav-v1.4.38.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-id.komikav-v1.6.6.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104038",
-        "versionName": "1.4.38",
+        "extensionLib": "1.6",
+        "versionCode": "106006",
+        "versionName": "1.6.6",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -22297,16 +22541,37 @@
         ]
       },
       {
+        "name": "VoraToon",
+        "packageName": "eu.kanade.tachiyomi.extension.id.komikcast",
+        "resources": {
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-id.komikcast-v1.6.83.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/id/voratoon/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-id.komikcast-v1.6.83.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106083",
+        "versionName": "1.6.83",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "972717448578983812",
+            "name": "VoraToon",
+            "language": "id",
+            "homeUrl": "https://v1.voratoon.com"
+          }
+        ]
+      },
+      {
         "name": "Komik Dewasa",
         "packageName": "eu.kanade.tachiyomi.extension.id.komikdewasa",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-id.komikdewasa-v1.4.32.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-id.komikdewasa-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/id/komikdewasa/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-id.komikdewasa-v1.4.32.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-id.komikdewasa-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104032",
-        "versionName": "1.4.32",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -22321,13 +22586,13 @@
         "name": "Komik Dewasa Art",
         "packageName": "eu.kanade.tachiyomi.extension.id.komikdewasaart",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-id.komikdewasaart-v1.4.32.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-id.komikdewasaart-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/id/komikdewasaart/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-id.komikdewasaart-v1.4.32.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-id.komikdewasaart-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104032",
-        "versionName": "1.4.32",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -22339,37 +22604,16 @@
         ]
       },
       {
-        "name": "Komikhwa",
-        "packageName": "eu.kanade.tachiyomi.extension.id.komikhwa",
-        "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-id.komikhwa-v1.4.32.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/id/komikhwa/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-id.komikhwa-v1.4.32.jar"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "104032",
-        "versionName": "1.4.32",
-        "contentWarning": "CONTENT_WARNING_SAFE",
-        "sources": [
-          {
-            "id": "5430652619051267300",
-            "name": "Komikhwa",
-            "language": "id",
-            "homeUrl": "https://komikhwa.com"
-          }
-        ]
-      },
-      {
         "name": "Komikindo",
         "packageName": "eu.kanade.tachiyomi.extension.id.komikindo",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-id.komikindo-v1.4.39.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-id.komikindo-v1.6.7.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/id/komikindo/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-id.komikindo-v1.4.39.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-id.komikindo-v1.6.7.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104039",
-        "versionName": "1.4.39",
+        "extensionLib": "1.6",
+        "versionCode": "106007",
+        "versionName": "1.6.7",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -22377,27 +22621,6 @@
             "name": "Komikindo",
             "language": "id",
             "homeUrl": "https://komikindo.fit"
-          }
-        ]
-      },
-      {
-        "name": "KomikIndo.co",
-        "packageName": "eu.kanade.tachiyomi.extension.id.komikindoco",
-        "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-id.komikindoco-v1.4.38.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/id/komikindoco/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-id.komikindoco-v1.4.38.jar"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "104038",
-        "versionName": "1.4.38",
-        "contentWarning": "CONTENT_WARNING_NSFW",
-        "sources": [
-          {
-            "id": "734619124437406170",
-            "name": "KomikIndo.co",
-            "language": "id",
-            "homeUrl": "https://komiksin.net"
           }
         ]
       },
@@ -22468,13 +22691,13 @@
         "name": "Komik Station",
         "packageName": "eu.kanade.tachiyomi.extension.id.komikstation",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-id.komikstation-v1.4.39.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-id.komikstation-v1.6.7.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/id/komikstation/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-id.komikstation-v1.4.39.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-id.komikstation-v1.6.7.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104039",
-        "versionName": "1.4.39",
+        "extensionLib": "1.6",
+        "versionCode": "106007",
+        "versionName": "1.6.7",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -22489,13 +22712,13 @@
         "name": "Komiktap",
         "packageName": "eu.kanade.tachiyomi.extension.id.komiktap",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-id.komiktap-v1.4.36.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-id.komiktap-v1.6.4.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/id/komiktap/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-id.komiktap-v1.4.36.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-id.komiktap-v1.6.4.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104036",
-        "versionName": "1.4.36",
+        "extensionLib": "1.6",
+        "versionCode": "106004",
+        "versionName": "1.6.4",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -22573,13 +22796,13 @@
         "name": "KumaPoi",
         "packageName": "eu.kanade.tachiyomi.extension.id.kumapoi",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-id.kumapoi-v1.4.36.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-id.kumapoi-v1.6.5.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/id/kumapoi/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-id.kumapoi-v1.4.36.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-id.kumapoi-v1.6.5.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104036",
-        "versionName": "1.4.36",
+        "extensionLib": "1.6",
+        "versionCode": "106005",
+        "versionName": "1.6.5",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -22594,13 +22817,13 @@
         "name": "KumoPoi",
         "packageName": "eu.kanade.tachiyomi.extension.id.kumopoi",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-id.kumopoi-v1.4.32.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-id.kumopoi-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/id/kumopoi/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-id.kumopoi-v1.4.32.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-id.kumopoi-v1.6.1.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104032",
-        "versionName": "1.4.32",
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -22615,13 +22838,13 @@
         "name": "Kuro Manga",
         "packageName": "eu.kanade.tachiyomi.extension.id.kuromanga",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-id.kuromanga-v1.4.33.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-id.kuromanga-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/id/kuromanga/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-id.kuromanga-v1.4.33.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-id.kuromanga-v1.6.1.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104033",
-        "versionName": "1.4.33",
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -22657,13 +22880,13 @@
         "name": "LianScans",
         "packageName": "eu.kanade.tachiyomi.extension.id.lianscans",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-id.lianscans-v1.4.34.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-id.lianscans-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/id/lianscans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-id.lianscans-v1.4.34.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-id.lianscans-v1.6.2.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104034",
-        "versionName": "1.4.34",
+        "extensionLib": "1.6",
+        "versionCode": "106002",
+        "versionName": "1.6.2",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -22720,13 +22943,13 @@
         "name": "Manga Can",
         "packageName": "eu.kanade.tachiyomi.extension.id.mangacan",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-id.mangacan-v1.4.33.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-id.mangacan-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/id/mangacan/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-id.mangacan-v1.4.33.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-id.mangacan-v1.6.1.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104033",
-        "versionName": "1.4.33",
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -22783,13 +23006,13 @@
         "name": "Mangasusu",
         "packageName": "eu.kanade.tachiyomi.extension.id.mangasusu",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-id.mangasusu-v1.4.37.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-id.mangasusu-v1.6.5.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/id/mangasusu/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-id.mangasusu-v1.4.37.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-id.mangasusu-v1.6.5.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104037",
-        "versionName": "1.4.37",
+        "extensionLib": "1.6",
+        "versionCode": "106005",
+        "versionName": "1.6.5",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -22825,20 +23048,20 @@
         "name": "ManhwaDesu",
         "packageName": "eu.kanade.tachiyomi.extension.id.manhwadesu",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-id.manhwadesu-v1.4.43.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-id.manhwadesu-v1.6.12.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/id/manhwadesu/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-id.manhwadesu-v1.4.43.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-id.manhwadesu-v1.6.12.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104043",
-        "versionName": "1.4.43",
+        "extensionLib": "1.6",
+        "versionCode": "106012",
+        "versionName": "1.6.12",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
             "id": "8258394658125354785",
             "name": "ManhwaDesu",
             "language": "id",
-            "homeUrl": "https://manhwadesu.store"
+            "homeUrl": "https://manhwadesu.wiki"
           }
         ]
       },
@@ -22846,13 +23069,13 @@
         "name": "Manhwa Indo",
         "packageName": "eu.kanade.tachiyomi.extension.id.manhwaindo",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-id.manhwaindo-v1.4.43.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-id.manhwaindo-v1.6.11.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/id/manhwaindo/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-id.manhwaindo-v1.4.43.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-id.manhwaindo-v1.6.11.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104043",
-        "versionName": "1.4.43",
+        "extensionLib": "1.6",
+        "versionCode": "106011",
+        "versionName": "1.6.11",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -22867,13 +23090,13 @@
         "name": "ManhwaLand.mom",
         "packageName": "eu.kanade.tachiyomi.extension.id.manhwalandmom",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-id.manhwalandmom-v1.4.42.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-id.manhwalandmom-v1.6.10.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/id/manhwalandmom/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-id.manhwalandmom-v1.4.42.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-id.manhwalandmom-v1.6.10.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104042",
-        "versionName": "1.4.42",
+        "extensionLib": "1.6",
+        "versionCode": "106010",
+        "versionName": "1.6.10",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -22888,20 +23111,20 @@
         "name": "Manhwa List",
         "packageName": "eu.kanade.tachiyomi.extension.id.manhwalistid",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-id.manhwalistid-v1.4.39.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-id.manhwalistid-v1.6.7.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/id/manhwalistid/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-id.manhwalistid-v1.4.39.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-id.manhwalistid-v1.6.7.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104039",
-        "versionName": "1.4.39",
+        "extensionLib": "1.6",
+        "versionCode": "106007",
+        "versionName": "1.6.7",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "3111049819536223391",
             "name": "Manhwa List",
             "language": "id",
-            "homeUrl": "https://manhwalist02.asia"
+            "homeUrl": "https://manhwalist.asia"
           }
         ]
       },
@@ -22909,13 +23132,13 @@
         "name": "IsekaiKomik",
         "packageName": "eu.kanade.tachiyomi.extension.id.manhwalistorg",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-id.manhwalistorg-v1.4.34.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-id.manhwalistorg-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/id/manhwalistorg/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-id.manhwalistorg-v1.4.34.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-id.manhwalistorg-v1.6.2.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104034",
-        "versionName": "1.4.34",
+        "extensionLib": "1.6",
+        "versionCode": "106002",
+        "versionName": "1.6.2",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -22951,13 +23174,13 @@
         "name": "Mihentai",
         "packageName": "eu.kanade.tachiyomi.extension.id.mihentai",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-id.mihentai-v1.4.35.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-id.mihentai-v1.6.3.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/id/mihentai/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-id.mihentai-v1.4.35.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-id.mihentai-v1.6.3.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104035",
-        "versionName": "1.4.35",
+        "extensionLib": "1.6",
+        "versionCode": "106003",
+        "versionName": "1.6.3",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -23056,13 +23279,13 @@
         "name": "Ngomik (unoriginal)",
         "packageName": "eu.kanade.tachiyomi.extension.id.ngomik",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-id.ngomik-v1.4.38.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-id.ngomik-v1.6.6.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/id/ngomik/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-id.ngomik-v1.4.38.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-id.ngomik-v1.6.6.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104038",
-        "versionName": "1.4.38",
+        "extensionLib": "1.6",
+        "versionCode": "106006",
+        "versionName": "1.6.6",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -23077,13 +23300,13 @@
         "name": "Noromax",
         "packageName": "eu.kanade.tachiyomi.extension.id.noromax",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-id.noromax-v1.4.37.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-id.noromax-v1.6.5.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/id/noromax/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-id.noromax-v1.4.37.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-id.noromax-v1.6.5.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104037",
-        "versionName": "1.4.37",
+        "extensionLib": "1.6",
+        "versionCode": "106005",
+        "versionName": "1.6.5",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -23119,13 +23342,13 @@
         "name": "Omicaso",
         "packageName": "eu.kanade.tachiyomi.extension.id.omicaso",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-id.omicaso-v1.4.35.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-id.omicaso-v1.6.3.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/id/omicaso/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-id.omicaso-v1.4.35.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-id.omicaso-v1.6.3.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104035",
-        "versionName": "1.4.35",
+        "extensionLib": "1.6",
+        "versionCode": "106003",
+        "versionName": "1.6.3",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -23266,13 +23489,13 @@
         "name": "Sasangeyou",
         "packageName": "eu.kanade.tachiyomi.extension.id.sasangeyou",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-id.sasangeyou-v1.4.32.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-id.sasangeyou-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/id/sasangeyou/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-id.sasangeyou-v1.4.32.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-id.sasangeyou-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104032",
-        "versionName": "1.4.32",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -23287,13 +23510,13 @@
         "name": "Sekte Doujin",
         "packageName": "eu.kanade.tachiyomi.extension.id.sektedoujin",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-id.sektedoujin-v1.4.38.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-id.sektedoujin-v1.6.6.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/id/sektedoujin/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-id.sektedoujin-v1.4.38.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-id.sektedoujin-v1.6.6.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104038",
-        "versionName": "1.4.38",
+        "extensionLib": "1.6",
+        "versionCode": "106006",
+        "versionName": "1.6.6",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -23343,27 +23566,6 @@
             "name": "Shinigami",
             "language": "id",
             "homeUrl": "https://11.shinigami.asia"
-          }
-        ]
-      },
-      {
-        "name": "Shirakami",
-        "packageName": "eu.kanade.tachiyomi.extension.id.shirakami",
-        "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-id.shirakami-v1.4.32.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/id/shirakami/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-id.shirakami-v1.4.32.jar"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "104032",
-        "versionName": "1.4.32",
-        "contentWarning": "CONTENT_WARNING_SAFE",
-        "sources": [
-          {
-            "id": "7712565009997781291",
-            "name": "Shirakami",
-            "language": "id",
-            "homeUrl": "https://shirakami.xyz"
           }
         ]
       },
@@ -23574,6 +23776,27 @@
             "name": "Wurmz",
             "language": "id",
             "homeUrl": "https://wurmz.net"
+          }
+        ]
+      },
+      {
+        "name": "Kaguya",
+        "packageName": "eu.kanade.tachiyomi.extension.id.yubikiri",
+        "resources": {
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-id.yubikiri-v1.4.56.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/id/kaguya/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-id.yubikiri-v1.4.56.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "104056",
+        "versionName": "1.4.56",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "1557304490417397104",
+            "name": "Kaguya",
+            "language": "id",
+            "homeUrl": "https://02.kaguya.pro"
           }
         ]
       },
@@ -23875,13 +24098,13 @@
         "name": "Walpurgi Scan",
         "packageName": "eu.kanade.tachiyomi.extension.it.walpurgisscan",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-it.walpurgisscan-v1.4.39.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-it.walpurgisscan-v1.6.7.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/it/walpurgisscan/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-it.walpurgisscan-v1.4.39.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-it.walpurgisscan-v1.6.7.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104039",
-        "versionName": "1.4.39",
+        "extensionLib": "1.6",
+        "versionCode": "106007",
+        "versionName": "1.6.7",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -24505,9 +24728,9 @@
         "name": "Corocoro Online",
         "packageName": "eu.kanade.tachiyomi.extension.ja.corocoroonline",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-ja.corocoroonline-v1.4.11.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-ja.corocoroonline-v1.4.11.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/ja/corocoroonline/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-1/tachiyomi-ja.corocoroonline-v1.4.11.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-1/tachiyomi-ja.corocoroonline-v1.4.11.jar"
         },
         "extensionLib": "1.4",
         "versionCode": "104011",
@@ -25456,9 +25679,9 @@
         "name": "MangaMee",
         "packageName": "eu.kanade.tachiyomi.extension.ja.mangamee",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-2/tachiyomi-ja.mangamee-v1.4.2.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-2/tachiyomi-ja.mangamee-v1.4.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/ja/mangamee/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-2/tachiyomi-ja.mangamee-v1.4.2.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-2/tachiyomi-ja.mangamee-v1.4.2.jar"
         },
         "extensionLib": "1.4",
         "versionCode": "104002",
@@ -25540,9 +25763,9 @@
         "name": "Manga One",
         "packageName": "eu.kanade.tachiyomi.extension.ja.mangaone",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-2/tachiyomi-ja.mangaone-v1.4.3.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-2/tachiyomi-ja.mangaone-v1.4.3.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/ja/mangaone/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-2/tachiyomi-ja.mangaone-v1.4.3.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-2/tachiyomi-ja.mangaone-v1.4.3.jar"
         },
         "extensionLib": "1.4",
         "versionCode": "104003",
@@ -26470,9 +26693,9 @@
         "name": "Zebrack",
         "packageName": "eu.kanade.tachiyomi.extension.ja.zebrack",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-2/tachiyomi-ja.zebrack-v1.4.1.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-2/tachiyomi-ja.zebrack-v1.4.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/ja/zebrack/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-2/tachiyomi-ja.zebrack-v1.4.1.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-2/tachiyomi-ja.zebrack-v1.4.1.jar"
         },
         "extensionLib": "1.4",
         "versionCode": "104001",
@@ -26512,9 +26735,9 @@
         "name": "Zerosum Online",
         "packageName": "eu.kanade.tachiyomi.extension.ja.zerosumonline",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-2/tachiyomi-ja.zerosumonline-v1.4.1.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-2/tachiyomi-ja.zerosumonline-v1.4.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/ja/zerosumonline/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-2/tachiyomi-ja.zerosumonline-v1.4.1.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-2/tachiyomi-ja.zerosumonline-v1.4.1.jar"
         },
         "extensionLib": "1.4",
         "versionCode": "104001",
@@ -26907,27 +27130,6 @@
             "name": "Astratoons",
             "language": "pt-BR",
             "homeUrl": "https://new.astratoons.com"
-          }
-        ]
-      },
-      {
-        "name": "Atemporal",
-        "packageName": "eu.kanade.tachiyomi.extension.pt.atemporal",
-        "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-2/tachiyomi-pt.atemporal-v1.4.48.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/pt/atemporal/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-2/tachiyomi-pt.atemporal-v1.4.48.jar"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "104048",
-        "versionName": "1.4.48",
-        "contentWarning": "CONTENT_WARNING_SAFE",
-        "sources": [
-          {
-            "id": "4457222405258030659",
-            "name": "Atemporal",
-            "language": "pt-BR",
-            "homeUrl": "https://atemporal.cloud"
           }
         ]
       },
@@ -28027,13 +28229,13 @@
         "name": "Manga Stop",
         "packageName": "eu.kanade.tachiyomi.extension.pt.mangastop",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-2/tachiyomi-pt.mangastop-v1.4.44.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-2/tachiyomi-pt.mangastop-v1.6.12.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/pt/mangastop/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-2/tachiyomi-pt.mangastop-v1.4.44.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-2/tachiyomi-pt.mangastop-v1.6.12.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104044",
-        "versionName": "1.4.44",
+        "extensionLib": "1.6",
+        "versionCode": "106012",
+        "versionName": "1.6.12",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -28360,27 +28562,6 @@
         ]
       },
       {
-        "name": "Origami Orpheans",
-        "packageName": "eu.kanade.tachiyomi.extension.pt.origamiorpheans",
-        "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-2/tachiyomi-pt.origamiorpheans-v1.4.43.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/pt/origamiorpheans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-2/tachiyomi-pt.origamiorpheans-v1.4.43.jar"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "104043",
-        "versionName": "1.4.43",
-        "contentWarning": "CONTENT_WARNING_MIXED",
-        "sources": [
-          {
-            "id": "4038055363600290082",
-            "name": "Origami Orpheans",
-            "language": "pt-BR",
-            "homeUrl": "https://origami-orpheans.com"
-          }
-        ]
-      },
-      {
         "name": "Osaka Scan",
         "packageName": "eu.kanade.tachiyomi.extension.pt.osakascan",
         "resources": {
@@ -28489,13 +28670,13 @@
         "name": "Point Zero Toons",
         "packageName": "eu.kanade.tachiyomi.extension.pt.pointzerotoons",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-2/tachiyomi-pt.pointzerotoons-v1.4.34.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-2/tachiyomi-pt.pointzerotoons-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/pt/pointzerotoons/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-2/tachiyomi-pt.pointzerotoons-v1.4.34.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-2/tachiyomi-pt.pointzerotoons-v1.6.2.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104034",
-        "versionName": "1.4.34",
+        "extensionLib": "1.6",
+        "versionCode": "106002",
+        "versionName": "1.6.2",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -28762,13 +28943,13 @@
         "name": "Starlight Scan",
         "packageName": "eu.kanade.tachiyomi.extension.pt.starlightscan",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-2/tachiyomi-pt.starlightscan-v1.4.33.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-2/tachiyomi-pt.starlightscan-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/lib-multisrc/mangathemesia/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-2/tachiyomi-pt.starlightscan-v1.4.33.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-2/tachiyomi-pt.starlightscan-v1.6.1.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104033",
-        "versionName": "1.4.33",
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -28951,13 +29132,13 @@
         "name": "Tsundoku Tradu\u00e7\u00f5es",
         "packageName": "eu.kanade.tachiyomi.extension.pt.tsundokutraducoes",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-2/tachiyomi-pt.tsundokutraducoes-v1.4.42.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-2/tachiyomi-pt.tsundokutraducoes-v1.6.10.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/pt/tsundokutraducoes/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-2/tachiyomi-pt.tsundokutraducoes-v1.4.42.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-2/tachiyomi-pt.tsundokutraducoes-v1.6.10.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104042",
-        "versionName": "1.4.42",
+        "extensionLib": "1.6",
+        "versionCode": "106010",
+        "versionName": "1.6.10",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -29821,6 +30002,27 @@
         ]
       },
       {
+        "name": "SlashLib",
+        "packageName": "eu.kanade.tachiyomi.extension.ru.yaoilib",
+        "resources": {
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-2/tachiyomi-ru.yaoilib-v1.4.48.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/ru/slashlib/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-2/tachiyomi-ru.yaoilib-v1.4.48.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "104048",
+        "versionName": "1.4.48",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "2730544188738947015",
+            "name": "SlashLib",
+            "language": "ru",
+            "homeUrl": "https://slashlib.me"
+          }
+        ]
+      },
+      {
         "name": "Cat300",
         "packageName": "eu.kanade.tachiyomi.extension.th.cat300",
         "resources": {
@@ -29908,13 +30110,13 @@
         "name": "Doujin Moon",
         "packageName": "eu.kanade.tachiyomi.extension.th.doujinmoon",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-2/tachiyomi-th.doujinmoon-v1.4.32.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-2/tachiyomi-th.doujinmoon-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/th/doujinmoon/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-2/tachiyomi-th.doujinmoon-v1.4.32.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-2/tachiyomi-th.doujinmoon-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104032",
-        "versionName": "1.4.32",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -29950,13 +30152,13 @@
         "name": "Ecchi-Doujin",
         "packageName": "eu.kanade.tachiyomi.extension.th.ecchidoujin",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-2/tachiyomi-th.ecchidoujin-v1.4.32.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-2/tachiyomi-th.ecchidoujin-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/th/ecchidoujin/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-2/tachiyomi-th.ecchidoujin-v1.4.32.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-2/tachiyomi-th.ecchidoujin-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104032",
-        "versionName": "1.4.32",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -29971,13 +30173,13 @@
         "name": "Fin Manga",
         "packageName": "eu.kanade.tachiyomi.extension.th.finmanga",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-2/tachiyomi-th.finmanga-v1.4.32.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-2/tachiyomi-th.finmanga-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/th/finmanga/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-2/tachiyomi-th.finmanga-v1.4.32.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-2/tachiyomi-th.finmanga-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104032",
-        "versionName": "1.4.32",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -29992,13 +30194,13 @@
         "name": "God-Doujin",
         "packageName": "eu.kanade.tachiyomi.extension.th.goddoujin",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-2/tachiyomi-th.goddoujin-v1.4.32.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-2/tachiyomi-th.goddoujin-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/th/goddoujin/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-2/tachiyomi-th.goddoujin-v1.4.32.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-2/tachiyomi-th.goddoujin-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104032",
-        "versionName": "1.4.32",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -30013,13 +30215,13 @@
         "name": "Go Manga",
         "packageName": "eu.kanade.tachiyomi.extension.th.gomanga",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-2/tachiyomi-th.gomanga-v1.4.32.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-2/tachiyomi-th.gomanga-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/th/gomanga/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-2/tachiyomi-th.gomanga-v1.4.32.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-2/tachiyomi-th.gomanga-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104032",
-        "versionName": "1.4.32",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -30031,37 +30233,16 @@
         ]
       },
       {
-        "name": "Lami-Manga",
-        "packageName": "eu.kanade.tachiyomi.extension.th.lamimanga",
-        "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-2/tachiyomi-th.lamimanga-v1.4.33.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/th/lamimanga/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-2/tachiyomi-th.lamimanga-v1.4.33.jar"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "104033",
-        "versionName": "1.4.33",
-        "contentWarning": "CONTENT_WARNING_NSFW",
-        "sources": [
-          {
-            "id": "13019989243414985",
-            "name": "Lami-Manga",
-            "language": "th",
-            "homeUrl": "https://mangalami.com"
-          }
-        ]
-      },
-      {
         "name": "Makimaaaaa",
         "packageName": "eu.kanade.tachiyomi.extension.th.makimaaaaa",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-2/tachiyomi-th.makimaaaaa-v1.4.32.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-2/tachiyomi-th.makimaaaaa-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/th/makimaaaaa/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-2/tachiyomi-th.makimaaaaa-v1.4.32.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-2/tachiyomi-th.makimaaaaa-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104032",
-        "versionName": "1.4.32",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -30076,13 +30257,13 @@
         "name": "Manga168",
         "packageName": "eu.kanade.tachiyomi.extension.th.manga168",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-2/tachiyomi-th.manga168-v1.4.34.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-2/tachiyomi-th.manga168-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/th/manga168/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-2/tachiyomi-th.manga168-v1.4.34.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-2/tachiyomi-th.manga168-v1.6.2.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104034",
-        "versionName": "1.4.34",
+        "extensionLib": "1.6",
+        "versionCode": "106002",
+        "versionName": "1.6.2",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -30118,13 +30299,13 @@
         "name": "MangaKimi",
         "packageName": "eu.kanade.tachiyomi.extension.th.mangakimi",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-2/tachiyomi-th.mangakimi-v1.4.35.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-2/tachiyomi-th.mangakimi-v1.6.3.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/lib-multisrc/mangathemesia/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-2/tachiyomi-th.mangakimi-v1.4.35.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-2/tachiyomi-th.mangakimi-v1.6.3.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104035",
-        "versionName": "1.4.35",
+        "extensionLib": "1.6",
+        "versionCode": "106003",
+        "versionName": "1.6.3",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -30160,13 +30341,13 @@
         "name": "Mangastep",
         "packageName": "eu.kanade.tachiyomi.extension.th.mangastep",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-2/tachiyomi-th.mangastep-v1.4.32.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-2/tachiyomi-th.mangastep-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/th/mangastep/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-2/tachiyomi-th.mangastep-v1.4.32.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-2/tachiyomi-th.mangastep-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104032",
-        "versionName": "1.4.32",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -30283,27 +30464,6 @@
         ]
       },
       {
-        "name": "Moodtoon",
-        "packageName": "eu.kanade.tachiyomi.extension.th.moodtoon",
-        "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-2/tachiyomi-th.moodtoon-v1.4.33.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/th/moodtoon/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-2/tachiyomi-th.moodtoon-v1.4.33.jar"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "104033",
-        "versionName": "1.4.33",
-        "contentWarning": "CONTENT_WARNING_NSFW",
-        "sources": [
-          {
-            "id": "8560199796461456661",
-            "name": "Moodtoon",
-            "language": "th",
-            "homeUrl": "https://moon-toon.com"
-          }
-        ]
-      },
-      {
         "name": "Nekopost",
         "packageName": "eu.kanade.tachiyomi.extension.th.nekopost",
         "resources": {
@@ -30349,13 +30509,13 @@
         "name": "NTR-Manga",
         "packageName": "eu.kanade.tachiyomi.extension.th.ntrmanga",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-2/tachiyomi-th.ntrmanga-v1.4.33.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-2/tachiyomi-th.ntrmanga-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/lib-multisrc/mangathemesia/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-2/tachiyomi-th.ntrmanga-v1.4.33.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-2/tachiyomi-th.ntrmanga-v1.6.1.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104033",
-        "versionName": "1.4.33",
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -30363,6 +30523,27 @@
             "name": "NTR-Manga",
             "language": "th",
             "homeUrl": "https://www.ntr-manga.net"
+          }
+        ]
+      },
+      {
+        "name": "MangaBlackCat",
+        "packageName": "eu.kanade.tachiyomi.extension.th.onemanga",
+        "resources": {
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-2/tachiyomi-th.onemanga-v1.4.33.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/th/mangablackcat/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-2/tachiyomi-th.onemanga-v1.4.33.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "104033",
+        "versionName": "1.4.33",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "2248402620929558947",
+            "name": "MangaBlackCat",
+            "language": "th",
+            "homeUrl": "https://mangablackcat.com"
           }
         ]
       },
@@ -30388,37 +30569,16 @@
         ]
       },
       {
-        "name": "PopsManga",
-        "packageName": "eu.kanade.tachiyomi.extension.th.popsmanga",
-        "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-2/tachiyomi-th.popsmanga-v1.4.34.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/th/popsmanga/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-2/tachiyomi-th.popsmanga-v1.4.34.jar"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "104034",
-        "versionName": "1.4.34",
-        "contentWarning": "CONTENT_WARNING_NSFW",
-        "sources": [
-          {
-            "id": "5134611019768985781",
-            "name": "PopsManga",
-            "language": "th",
-            "homeUrl": "https://popsmanga.net"
-          }
-        ]
-      },
-      {
         "name": "ReaperTrans",
         "packageName": "eu.kanade.tachiyomi.extension.th.reapertrans",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-2/tachiyomi-th.reapertrans-v1.4.32.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-2/tachiyomi-th.reapertrans-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/th/reapertrans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-2/tachiyomi-th.reapertrans-v1.4.32.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-2/tachiyomi-th.reapertrans-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104032",
-        "versionName": "1.4.32",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -30433,13 +30593,13 @@
         "name": "Singmanga",
         "packageName": "eu.kanade.tachiyomi.extension.th.singmanga",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-2/tachiyomi-th.singmanga-v1.4.32.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-2/tachiyomi-th.singmanga-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/th/singmanga/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-2/tachiyomi-th.singmanga-v1.4.32.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-2/tachiyomi-th.singmanga-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104032",
-        "versionName": "1.4.32",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -30454,13 +30614,13 @@
         "name": "Slow Manga",
         "packageName": "eu.kanade.tachiyomi.extension.th.slowmanga",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-2/tachiyomi-th.slowmanga-v1.4.33.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-2/tachiyomi-th.slowmanga-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/th/slowmanga/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-2/tachiyomi-th.slowmanga-v1.4.33.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-2/tachiyomi-th.slowmanga-v1.6.1.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104033",
-        "versionName": "1.4.33",
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -30475,13 +30635,13 @@
         "name": "Sodsaime",
         "packageName": "eu.kanade.tachiyomi.extension.th.sodsaime",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-2/tachiyomi-th.sodsaime-v1.4.34.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-2/tachiyomi-th.sodsaime-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/th/sodsaime/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-2/tachiyomi-th.sodsaime-v1.4.34.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-2/tachiyomi-th.sodsaime-v1.6.2.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104034",
-        "versionName": "1.4.34",
+        "extensionLib": "1.6",
+        "versionCode": "106002",
+        "versionName": "1.6.2",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -30496,13 +30656,13 @@
         "name": "Speed Manga",
         "packageName": "eu.kanade.tachiyomi.extension.th.speedmanga",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-2/tachiyomi-th.speedmanga-v1.4.33.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-2/tachiyomi-th.speedmanga-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/th/speedmanga/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-2/tachiyomi-th.speedmanga-v1.4.33.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-2/tachiyomi-th.speedmanga-v1.6.1.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104033",
-        "versionName": "1.4.33",
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -30517,13 +30677,13 @@
         "name": "Tanuki-Manga",
         "packageName": "eu.kanade.tachiyomi.extension.th.tanukimanga",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-2/tachiyomi-th.tanukimanga-v1.4.33.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-2/tachiyomi-th.tanukimanga-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/th/tanukimanga/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-2/tachiyomi-th.tanukimanga-v1.4.33.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-2/tachiyomi-th.tanukimanga-v1.6.1.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104033",
-        "versionName": "1.4.33",
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -30538,13 +30698,13 @@
         "name": "ToomTam-Manga",
         "packageName": "eu.kanade.tachiyomi.extension.th.toomtammanga",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-2/tachiyomi-th.toomtammanga-v1.4.32.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-2/tachiyomi-th.toomtammanga-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/th/toomtammanga/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-2/tachiyomi-th.toomtammanga-v1.4.32.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-2/tachiyomi-th.toomtammanga-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104032",
-        "versionName": "1.4.32",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -30601,13 +30761,13 @@
         "name": "Amanga Planet",
         "packageName": "eu.kanade.tachiyomi.extension.tr.amangaplanet",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-2/tachiyomi-tr.amangaplanet-v1.4.33.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-2/tachiyomi-tr.amangaplanet-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/tr/amangaplanet/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-2/tachiyomi-tr.amangaplanet-v1.4.33.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-2/tachiyomi-tr.amangaplanet-v1.6.1.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104033",
-        "versionName": "1.4.33",
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -30664,13 +30824,13 @@
         "name": "Arcura Fansub",
         "packageName": "eu.kanade.tachiyomi.extension.tr.arcurafansub",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-2/tachiyomi-tr.arcurafansub-v1.4.32.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-2/tachiyomi-tr.arcurafansub-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/tr/arcurafansub/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-2/tachiyomi-tr.arcurafansub-v1.4.32.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-2/tachiyomi-tr.arcurafansub-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104032",
-        "versionName": "1.4.32",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -30811,13 +30971,13 @@
         "name": "gafeland",
         "packageName": "eu.kanade.tachiyomi.extension.tr.gafeland",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-2/tachiyomi-tr.gafeland-v1.4.32.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-2/tachiyomi-tr.gafeland-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/tr/gafeland/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-2/tachiyomi-tr.gafeland-v1.4.32.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-2/tachiyomi-tr.gafeland-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104032",
-        "versionName": "1.4.32",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -30832,13 +30992,13 @@
         "name": "Gaiatoon",
         "packageName": "eu.kanade.tachiyomi.extension.tr.gaiatoon",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-2/tachiyomi-tr.gaiatoon-v1.4.32.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-2/tachiyomi-tr.gaiatoon-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/tr/gaiatoon/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-2/tachiyomi-tr.gaiatoon-v1.4.32.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-2/tachiyomi-tr.gaiatoon-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104032",
-        "versionName": "1.4.32",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -31021,13 +31181,13 @@
         "name": "Koreli Scans",
         "packageName": "eu.kanade.tachiyomi.extension.tr.koreliscans",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-2/tachiyomi-tr.koreliscans-v1.4.51.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-2/tachiyomi-tr.koreliscans-v1.6.19.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/tr/koreliscans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-2/tachiyomi-tr.koreliscans-v1.4.51.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-2/tachiyomi-tr.koreliscans-v1.6.19.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104051",
-        "versionName": "1.4.51",
+        "extensionLib": "1.6",
+        "versionCode": "106019",
+        "versionName": "1.6.19",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -31168,13 +31328,13 @@
         "name": "Manga Kusu",
         "packageName": "eu.kanade.tachiyomi.extension.tr.mangakusu",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-2/tachiyomi-tr.mangakusu-v1.4.33.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-2/tachiyomi-tr.mangakusu-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/tr/mangakusu/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-2/tachiyomi-tr.mangakusu-v1.4.33.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-2/tachiyomi-tr.mangakusu-v1.6.1.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104033",
-        "versionName": "1.4.33",
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -31441,13 +31601,13 @@
         "name": "Moon Daisy Scans",
         "packageName": "eu.kanade.tachiyomi.extension.tr.moondaisyscans",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-2/tachiyomi-tr.moondaisyscans-v1.4.38.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-2/tachiyomi-tr.moondaisyscans-v1.6.6.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/tr/moondaisyscans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-2/tachiyomi-tr.moondaisyscans-v1.4.38.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-2/tachiyomi-tr.moondaisyscans-v1.6.6.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104038",
-        "versionName": "1.4.38",
+        "extensionLib": "1.6",
+        "versionCode": "106006",
+        "versionName": "1.6.6",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -31462,13 +31622,13 @@
         "name": "Nemesis scans",
         "packageName": "eu.kanade.tachiyomi.extension.tr.nemesisscans",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-2/tachiyomi-tr.nemesisscans-v1.4.32.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-2/tachiyomi-tr.nemesisscans-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/tr/nemesisscans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-2/tachiyomi-tr.nemesisscans-v1.4.32.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-2/tachiyomi-tr.nemesisscans-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104032",
-        "versionName": "1.4.32",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -31483,13 +31643,13 @@
         "name": "Nirvana Manga",
         "packageName": "eu.kanade.tachiyomi.extension.tr.nirvanamanga",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-2/tachiyomi-tr.nirvanamanga-v1.4.32.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-2/tachiyomi-tr.nirvanamanga-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/tr/nirvanamanga/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-2/tachiyomi-tr.nirvanamanga-v1.4.32.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-2/tachiyomi-tr.nirvanamanga-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104032",
-        "versionName": "1.4.32",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -31588,13 +31748,13 @@
         "name": "Pati Manga",
         "packageName": "eu.kanade.tachiyomi.extension.tr.patimanga",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-2/tachiyomi-tr.patimanga-v1.4.32.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-2/tachiyomi-tr.patimanga-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/tr/patimanga/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-2/tachiyomi-tr.patimanga-v1.4.32.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-2/tachiyomi-tr.patimanga-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104032",
-        "versionName": "1.4.32",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -31630,13 +31790,13 @@
         "name": "Raindrop Fansub",
         "packageName": "eu.kanade.tachiyomi.extension.tr.raindropfansub",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-2/tachiyomi-tr.raindropfansub-v1.4.32.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-2/tachiyomi-tr.raindropfansub-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/tr/raindropfansub/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-2/tachiyomi-tr.raindropfansub-v1.4.32.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-2/tachiyomi-tr.raindropfansub-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104032",
-        "versionName": "1.4.32",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -31693,13 +31853,13 @@
         "name": "Serein Scan",
         "packageName": "eu.kanade.tachiyomi.extension.tr.sereinscan",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-2/tachiyomi-tr.sereinscan-v1.4.32.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-2/tachiyomi-tr.sereinscan-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/tr/sereinscan/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-2/tachiyomi-tr.sereinscan-v1.4.32.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-2/tachiyomi-tr.sereinscan-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104032",
-        "versionName": "1.4.32",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -31735,13 +31895,13 @@
         "name": "Shijie Scans",
         "packageName": "eu.kanade.tachiyomi.extension.tr.shijiescans",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-2/tachiyomi-tr.shijiescans-v1.4.33.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-2/tachiyomi-tr.shijiescans-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/tr/shijiescans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-2/tachiyomi-tr.shijiescans-v1.4.33.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-2/tachiyomi-tr.shijiescans-v1.6.1.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104033",
-        "versionName": "1.4.33",
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -31861,13 +32021,13 @@
         "name": "Tarot Scans",
         "packageName": "eu.kanade.tachiyomi.extension.tr.tarotscans",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-2/tachiyomi-tr.tarotscans-v1.4.32.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-2/tachiyomi-tr.tarotscans-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/tr/tarotscans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-2/tachiyomi-tr.tarotscans-v1.4.32.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-2/tachiyomi-tr.tarotscans-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104032",
-        "versionName": "1.4.32",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -31875,27 +32035,6 @@
             "name": "Tarot Scans",
             "language": "tr",
             "homeUrl": "https://www.tarotscans.com"
-          }
-        ]
-      },
-      {
-        "name": "Tempest Scans",
-        "packageName": "eu.kanade.tachiyomi.extension.tr.tempestscans",
-        "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-2/tachiyomi-tr.tempestscans-v1.4.33.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/tr/tempestscans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-2/tachiyomi-tr.tempestscans-v1.4.33.jar"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "104033",
-        "versionName": "1.4.33",
-        "contentWarning": "CONTENT_WARNING_SAFE",
-        "sources": [
-          {
-            "id": "5317159072505726832",
-            "name": "Tempest Scans",
-            "language": "tr",
-            "homeUrl": "https://tempestmangas.com"
           }
         ]
       },
@@ -32127,27 +32266,6 @@
             "name": "Yaoi Manga Oku",
             "language": "tr",
             "homeUrl": "https://yaoimangaoku.net"
-          }
-        ]
-      },
-      {
-        "name": "Zenith Scans",
-        "packageName": "eu.kanade.tachiyomi.extension.tr.zenithscans",
-        "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-2/tachiyomi-tr.zenithscans-v1.4.32.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/tr/zenithscans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-2/tachiyomi-tr.zenithscans-v1.4.32.jar"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "104032",
-        "versionName": "1.4.32",
-        "contentWarning": "CONTENT_WARNING_SAFE",
-        "sources": [
-          {
-            "id": "1669762383546832433",
-            "name": "Zenith Scans",
-            "language": "tr",
-            "homeUrl": "https://zenithscans.com"
           }
         ]
       },
@@ -34780,13 +34898,13 @@
         "name": "MH1234",
         "packageName": "eu.kanade.tachiyomi.extension.zh.mh1234",
         "resources": {
-          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-2/tachiyomi-zh.mh1234-v1.6.4.apk",
+          "apkUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-2/tachiyomi-zh.mh1234-v1.6.5.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/FelipeGFA/fonte-extensoes@main/src/zh/mh1234/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/e0ae25e-2/tachiyomi-zh.mh1234-v1.6.4.jar"
+          "jarUrl": "https://github.com/FelipeGFA/extensoes/releases/download/728975c-2/tachiyomi-zh.mh1234-v1.6.5.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106004",
-        "versionName": "1.6.4",
+        "versionCode": "106005",
+        "versionName": "1.6.5",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
